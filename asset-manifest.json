@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/EY/static/css/main.f4d3b73f.css",
+    "main.js": "/EY/static/js/main.7a967ed8.js",
+    "static/media/card@3x.png": "/EY/static/media/card@3x.20acddec6f9b85af1fc8.png",
+    "index.html": "/EY/index.html",
+    "main.f4d3b73f.css.map": "/EY/static/css/main.f4d3b73f.css.map",
+    "main.7a967ed8.js.map": "/EY/static/js/main.7a967ed8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4d3b73f.css",
+    "static/js/main.7a967ed8.js"
+  ]
+}
