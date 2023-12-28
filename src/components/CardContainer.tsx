@@ -7,7 +7,7 @@ const CardContainer: FunctionComponent = () => {
       <img
         className={styles.rectangle151}
         alt=""
-        src="/rectangle-15-1@2x.png"
+        src="/rectangle-15-12@2x.png"
       />
       <div className={styles.card3Child} />
       <div className={styles.rectangleParent}>
@@ -16,7 +16,7 @@ const CardContainer: FunctionComponent = () => {
         <img
           className={styles.vuesaxboldclockIcon}
           alt=""
-          src="/vuesaxboldclock@2x.png"
+          src="/vuesaxboldclock1@2x.png"
         />
       </div>
       <div className={styles.loremIpsumParent}>

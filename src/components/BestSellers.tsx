@@ -60,7 +60,7 @@ const BestSellers: FunctionComponent<BestSellersType> = ({
       <ContainerCardForm dimensionLabel="/frame-22@2x.png" />
       <CardContainer />
       <Filter
-        group1000003500="/group-1000003500@2x.png"
+        group1000003500="/group-10000035001@2x.png"
         filterPosition="absolute"
         filterTop="37.5px"
         filterLeft="1032.5px"
@@ -69,7 +69,7 @@ const BestSellers: FunctionComponent<BestSellersType> = ({
       <img
         className={styles.vuesaxlineararrowDownIcon}
         alt=""
-        src="/vuesaxlineararrowdown@2x.png"
+        src="/vuesaxlineararrowdown1@2x.png"
       />
     </div>
   );

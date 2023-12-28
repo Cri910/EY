@@ -13,7 +13,7 @@ const ContainerCardForm: FunctionComponent<ContainerCardFormType> = ({
       <img
         className={styles.rectangle151}
         alt=""
-        src="/rectangle-15-1@2x.png"
+        src="/rectangle-15-11@2x.png"
       />
       <div className={styles.rectangleParent}>
         <div className={styles.frameChild} />

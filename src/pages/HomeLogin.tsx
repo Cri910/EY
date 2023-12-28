@@ -13,8 +13,8 @@ const HomeLogin: FunctionComponent = () => {
   return (
     <div className={styles.homeLogin}>
       <MenuItemSelected
-        vuesaxoutlinesetting2="/vuesaxoutlinesetting2@2x.png"
-        vuesaxoutlinemessage="/vuesaxoutlinemessage@2x.png"
+        vuesaxoutlinesetting2="/vuesaxoutlinesetting21@2x.png"
+        vuesaxoutlinemessage="/vuesaxoutlinemessage1@2x.png"
         menuItemSelectedPosition="absolute"
         menuItemSelectedTop="204px"
         menuItemSelectedLeft="56.5px"
@@ -39,9 +39,9 @@ const HomeLogin: FunctionComponent = () => {
           />
           <div className={styles.frame2}>
             <BestSellers
-              frame22="/frame-22@2x.png"
-              frame221="/frame-22@2x.png"
-              group1000003500="/group-1000003500@2x.png"
+              frame22="/frame-221@2x.png"
+              frame221="/frame-221@2x.png"
+              group1000003500="/group-10000035002@2x.png"
               bestSellersWidth="1300px"
               bestSellersHeight="472px"
               bestSellersPosition="absolute"
@@ -52,22 +52,22 @@ const HomeLogin: FunctionComponent = () => {
             <div className={styles.frame3}>
               <div className={styles.frame4}>
                 <PiApprezzati
-                  vuesaxlinearethereumEth="/vuesaxlinearethereumeth@2x.png"
-                  vuesaxlinearethereumEth1="/vuesaxlinearethereumeth@2x.png"
-                  vuesaxlinearethereumEth2="/vuesaxlinearethereumeth@2x.png"
-                  rectangle18="/rectangle-18@2x.png"
-                  rectangle20="/rectangle-20@2x.png"
-                  rectangle21="/rectangle-21@2x.png"
-                  vuesaxoutlinearrowUp="/vuesaxoutlinearrowup@2x.png"
-                  vuesaxoutlinearrowUp1="/vuesaxoutlinearrowup@2x.png"
-                  vuesaxoutlinearrowUp2="/vuesaxoutlinearrowup@2x.png"
+                  vuesaxlinearethereumEth="/vuesaxlinearethereumeth4@2x.png"
+                  vuesaxlinearethereumEth1="/vuesaxlinearethereumeth4@2x.png"
+                  vuesaxlinearethereumEth2="/vuesaxlinearethereumeth4@2x.png"
+                  rectangle18="/rectangle-182@2x.png"
+                  rectangle20="/rectangle-202@2x.png"
+                  rectangle21="/rectangle-212@2x.png"
+                  vuesaxoutlinearrowUp="/vuesaxoutlinearrowup2@2x.png"
+                  vuesaxoutlinearrowUp1="/vuesaxoutlinearrowup2@2x.png"
+                  vuesaxoutlinearrowUp2="/vuesaxoutlinearrowup2@2x.png"
                   piApprezzatiPosition="relative"
                 />
               </div>
               <IlMioWallet
-                vuesaxlinearethereumEth="/vuesaxlinearethereumeth@2x.png"
-                vuesaxlineararrowDown="/vuesaxlineararrowdown@2x.png"
-                vuesaxoutlinerefresh2="/vuesaxoutlinerefresh2@2x.png"
+                vuesaxlinearethereumEth="/vuesaxlinearethereumeth5@2x.png"
+                vuesaxlineararrowDown="/vuesaxlineararrowdown2@2x.png"
+                vuesaxoutlinerefresh2="/vuesaxoutlinerefresh21@2x.png"
                 ilMioWalletWidth="604px"
                 ilMioWalletPosition="absolute"
                 ilMioWalletTop="-12.8px"
@@ -88,12 +88,12 @@ const HomeLogin: FunctionComponent = () => {
             <img
               className={styles.vuesaxoutlinesetting2Icon}
               alt=""
-              src="/vuesaxoutlinesetting2@2x.png"
+              src="/vuesaxoutlinesetting22@2x.png"
             />
             <img
               className={styles.vuesaxoutlinesetting2Icon}
               alt=""
-              src="/vuesaxoutlinemessage@2x.png"
+              src="/vuesaxoutlinemessage2@2x.png"
             />
             <div className={styles.messaggi}>Impostazioni</div>
           </div>
@@ -101,10 +101,10 @@ const HomeLogin: FunctionComponent = () => {
         </div>
       </div>
       <SocialMenu
-        vector="/clip-path-group@2x.png"
-        vector1="/vector@2x.png"
-        vector2="/vector@2x.png"
-        vuesaxlinearcloseSquare="/vector@2x.png"
+        vector="/clip-path-group2@2x.png"
+        vector1="/vector6@2x.png"
+        vector2="/vector7@2x.png"
+        vuesaxlinearcloseSquare="/vector8@2x.png"
         socialMenuPosition="absolute"
         socialMenuTop="761px"
         socialMenuLeft="66.7px"

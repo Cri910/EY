@@ -273,10 +273,10 @@ const SocialMenu: FunctionComponent<SocialMenuType> = ({
           <p className={styles.seguiLeNostre}>{`pagine social `}</p>
         </div>
         <SocialIcons
-          clipPathGroup="/clip-path-group@2x.png"
-          vector="/vector@2x.png"
-          vector1="/vector@2x.png"
-          vector2="/vector@2x.png"
+          clipPathGroup="/clip-path-group1@2x.png"
+          vector="/vector3@2x.png"
+          vector1="/vector4@2x.png"
+          vector2="/vector5@2x.png"
         />
       </div>
       <img

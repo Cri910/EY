@@ -24,7 +24,7 @@ const FormContainer: FunctionComponent = () => {
         <img
           className={styles.vuesaxoutlinesetting2Icon}
           alt=""
-          src="/vuesaxoutlinesetting2@2x.png"
+          src="/vuesaxoutlinesetting23@2x.png"
         />
         <div className={styles.impostazioni1}>Impostazioni</div>
       </div>
@@ -44,7 +44,7 @@ const FormContainer: FunctionComponent = () => {
         <img
           className={styles.vuesaxoutlinemessageIcon}
           alt=""
-          src="/vuesaxoutlinemessage@2x.png"
+          src="/vuesaxoutlinemessage3@2x.png"
         />
         <div className={styles.messaggi1}>Messaggi</div>
         <div className={styles.ellipseParent}>
@@ -64,7 +64,7 @@ const FormContainer: FunctionComponent = () => {
         <img
           className={styles.vuesaxlineardiamondsIcon}
           alt=""
-          src="/vuesaxoutlinesetting2@2x.png"
+          src="/vuesaxoutlinesetting24@2x.png"
         />
         <div className={styles.collezioni1}>Impostazioni</div>
       </div>

@@ -30,7 +30,7 @@ const BarraInAlto: FunctionComponent<BarraInAltoType> = ({
         <img
           className={styles.vuesaxlinearethereumEthIcon}
           alt=""
-          src="/vuesaxlinearethereumeth@2x.png"
+          src="/vuesaxlinearethereumeth3@2x.png"
         />
         <div className={styles.eth}>14.06 ETH</div>
       </div>
@@ -38,7 +38,7 @@ const BarraInAlto: FunctionComponent<BarraInAltoType> = ({
         <b className={styles.bentornatoFederico1}>Bentornato Federico!</b>
       </div>
       <Notifiche
-        vuesaxoutlinenotification="/vuesaxoutlinenotification@2x.png"
+        vuesaxoutlinenotification="/vuesaxoutlinenotification1@2x.png"
         notifichePosition="absolute"
         notificheTop="7.8px"
         notificheLeft="1006.4px"
