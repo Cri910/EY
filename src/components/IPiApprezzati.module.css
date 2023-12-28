@@ -51,7 +51,7 @@
 .vediTutti {
   top: 11.2px;
   left: 567.5px;
-  font-size: var(--font-size-base);
+  font-size: var(--paragraph-text-size);
   font-weight: 600;
 }
 .minsonJolia1,
@@ -174,7 +174,7 @@
   width: 652px;
   height: 359.1px;
   text-align: left;
-  font-size: var(--font-size-xs);
+  font-size: var(--regular-12-16-size);
   color: var(--color-gray-500);
   font-family: var(--font-poppins);
 }

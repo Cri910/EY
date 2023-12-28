@@ -1,0 +1,65 @@
+.newsletterChild {
+  position: absolute;
+  height: 36.9%;
+  width: 84.61%;
+  top: 2.51%;
+  right: 15.61%;
+  bottom: 60.59%;
+  left: -0.22%;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-gray-1500);
+  opacity: 0.45;
+}
+.indirizzoEmail {
+  position: absolute;
+  height: 17.74%;
+  width: 25.19%;
+  top: 10.79%;
+  left: 4.71%;
+  display: inline-block;
+}
+.newsletterItem {
+  position: absolute;
+  height: 32.72%;
+  width: 30.3%;
+  top: 2.51%;
+  right: 15.61%;
+  bottom: 64.77%;
+  left: 54.09%;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-blueviolet);
+}
+.iscriviti,
+.iscrivitiAllaNewsletter {
+  position: absolute;
+  height: 17.74%;
+  display: inline-block;
+}
+.iscriviti {
+  width: 13.22%;
+  top: 11.72%;
+  left: 62.84%;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--bg-shade);
+}
+.iscrivitiAllaNewsletter {
+  width: 48.33%;
+  top: -36.07%;
+  left: 0.7%;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+}
+.newsletter {
+  position: absolute;
+  height: 24.74%;
+  width: 23.21%;
+  top: 46.34%;
+  right: 71.56%;
+  bottom: 28.92%;
+  left: 5.24%;
+  text-align: left;
+  font-size: var(--paragraph-text-size);
+  color: var(--white);
+  font-family: var(--paragraph-text);
+}

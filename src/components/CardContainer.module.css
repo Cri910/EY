@@ -60,7 +60,7 @@
   position: absolute;
   top: 25px;
   left: -2px;
-  font-size: var(--font-size-xs);
+  font-size: var(--regular-12-16-size);
   font-weight: 500;
   color: var(--color-gainsboro-200);
 }
@@ -78,12 +78,12 @@
   top: 110px;
   left: 792px;
   border-radius: var(--br-11xl);
-  background-color: var(--color-white);
+  background-color: var(--white);
   width: 352px;
   height: 346px;
   overflow: hidden;
   text-align: left;
-  font-size: var(--font-size-xs);
+  font-size: var(--regular-12-16-size);
   color: var(--color-gainsboro-200);
   font-family: var(--font-poppins);
 }

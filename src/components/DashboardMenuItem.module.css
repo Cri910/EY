@@ -1,0 +1,23 @@
+.dashboardIcon {
+  position: absolute;
+  top: 1.8px;
+  left: -2px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.dashboard {
+  position: absolute;
+  top: 5.8px;
+  left: 45px;
+  font-weight: 500;
+}
+.dashboardMenuItem {
+  width: 135px;
+  height: 28px;
+  text-align: left;
+  font-size: var(--paragraph-text-size);
+  color: var(--color-dimgray-300);
+  font-family: var(--font-poppins);
+}

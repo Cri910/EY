@@ -1,0 +1,72 @@
+.vuesaxboldhomeIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.home {
+  position: relative;
+  font-weight: 500;
+}
+.vuesaxboldhomeParent {
+  position: absolute;
+  top: 34px;
+  left: 0;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-gray-800);
+  flex-direction: row;
+  padding: var(--padding-xl) var(--padding-97xl) var(--padding-xl)
+    var(--padding-mid);
+  gap: var(--gap-mid);
+}
+.frameParent,
+.vuesaxboldhomeParent,
+.vuesaxlineardiamondsParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vuesaxlineardiamondsParent {
+  flex-shrink: 0;
+  flex-direction: row;
+  gap: var(--gap-mid);
+}
+.frameParent {
+  position: absolute;
+  top: 137.5px;
+  left: 17px;
+  flex-direction: column;
+  gap: var(--gap-28xl);
+  color: var(--color-dimgray-300);
+}
+.accediButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-royalblue);
+  width: 64px;
+  height: 32px;
+}
+.accedi,
+.accediButton {
+  position: absolute;
+  top: 7px;
+  left: 11px;
+}
+.accediButton {
+  top: 205px;
+  left: 208px;
+  width: 64px;
+  height: 32px;
+  font-size: var(--regular-12-16-size);
+  color: var(--color-whitesmoke-300);
+}
+.menuNotLog {
+  width: 272px;
+  height: 512px;
+  text-align: left;
+  font-size: var(--paragraph-text-size);
+  color: var(--white);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,12 @@
+.menuLateraleParent {
+  position: absolute;
+  top: 85.8px;
+  left: 0;
+  width: 285px;
+  height: 452.4px;
+}
+.menuSettings {
+  width: 343px;
+  height: 505px;
+  overflow: hidden;
+}

@@ -1,0 +1,287 @@
+.account1 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 72px;
+  flex-shrink: 0;
+}
+.account {
+  border-bottom: 2px solid var(--color-blueviolet);
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-5xs);
+}
+.sicurezza {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 80px;
+  flex-shrink: 0;
+}
+.header,
+.security {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.security {
+  flex-shrink: 0;
+  padding: var(--padding-base) var(--padding-5xs);
+  color: var(--gray-03);
+}
+.header {
+  position: absolute;
+  top: 24px;
+  left: 32px;
+  border-bottom: 1px solid var(--special-bg3);
+  box-sizing: border-box;
+  width: 1040px;
+  gap: var(--gap-13xl);
+}
+.nomeECognome {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+}
+.name {
+  top: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.email,
+.name,
+.userNameChild {
+  position: absolute;
+  left: 0;
+  flex-shrink: 0;
+}
+.email {
+  top: 125px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.userNameChild {
+  top: 116px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--special-bg3);
+}
+.fedePeco {
+  position: absolute;
+  top: 16px;
+  left: 27px;
+  line-height: 24px;
+  display: inline-block;
+  width: 492px;
+}
+.fedePecoWrapper,
+.userName {
+  position: absolute;
+  width: 540px;
+  flex-shrink: 0;
+}
+.fedePecoWrapper {
+  top: 42px;
+  left: -8px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  height: 56px;
+  color: var(--gray-02);
+}
+.userName {
+  top: 250px;
+  left: 0;
+  height: 172px;
+}
+.numeroDiWallet {
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  font-weight: 600;
+}
+.div,
+.numeroDiWallet,
+.wrapper {
+  position: absolute;
+}
+.div {
+  top: 16px;
+  left: 30px;
+  line-height: 24px;
+  display: inline-block;
+  width: 492px;
+}
+.wrapper {
+  top: 40px;
+  left: -8px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 540px;
+  height: 56px;
+  flex-shrink: 0;
+  color: var(--gray-03);
+  font-family: var(--regular-12-16);
+}
+.phoneNumber,
+.phoneNumberChild {
+  position: absolute;
+  left: 0;
+  width: 896.1px;
+  flex-shrink: 0;
+}
+.phoneNumberChild {
+  top: 96px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--special-bg3);
+  box-sizing: border-box;
+  height: 76px;
+}
+.phoneNumber {
+  top: 370px;
+  height: 172px;
+}
+.federicoPecoraro {
+  position: absolute;
+  top: 69px;
+  left: 20px;
+  line-height: 24px;
+  color: var(--gray-02);
+  display: inline-block;
+  width: 492px;
+}
+.inputChild {
+  position: absolute;
+  top: 51px;
+  left: -8px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-gray-500);
+  flex-shrink: 0;
+}
+.infochainblockit {
+  position: absolute;
+  top: 16px;
+  left: 28px;
+  line-height: 24px;
+  display: inline-block;
+  width: 492px;
+}
+.infochainblockitWrapper {
+  position: absolute;
+  top: 172px;
+  left: -8px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  height: 56px;
+  color: var(--gray-02);
+}
+.infochainblockitWrapper,
+.input,
+.updateProfile {
+  width: 540px;
+  flex-shrink: 0;
+}
+.input {
+  position: absolute;
+  top: 18px;
+  left: 11px;
+  height: 470px;
+}
+.updateProfile {
+  position: relative;
+  height: 488px;
+}
+.pictureBoxChild {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+}
+.uploadYourPhoto {
+  position: relative;
+  line-height: 16px;
+  display: inline-block;
+  width: 94px;
+}
+.pictureBox {
+  position: absolute;
+  top: 56px;
+  left: 5.5px;
+  border-radius: var(--br-5xs);
+  border: 1px dashed var(--gray-03);
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-5xl);
+  gap: var(--gap-mini);
+  text-align: center;
+  font-size: var(--regular-12-16-size);
+  color: var(--gray-03);
+  font-family: var(--regular-12-16);
+}
+.profilePicture {
+  position: relative;
+  width: 153px;
+  height: 187px;
+  flex-shrink: 0;
+  color: var(--gray-01);
+}
+.accountsDetails {
+  position: absolute;
+  top: 111.2px;
+  left: 40px;
+  width: 1040px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-125xl);
+  text-align: left;
+  color: var(--secondary);
+}
+.aggiornaProfilo {
+  position: absolute;
+  top: 21px;
+  left: 29.5px;
+  line-height: 24px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 164px;
+}
+.buttonBig,
+.settings {
+  position: absolute;
+  top: 630.3px;
+  left: 40px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-blueviolet);
+  width: 223px;
+  height: 66px;
+  color: var(--white);
+}
+.settings {
+  top: 276.9px;
+  left: 448px;
+  border-radius: var(--br-base);
+  background-color: var(--white);
+  box-shadow: var(--shadow-01);
+  width: 1163px;
+  height: 740px;
+  text-align: center;
+  font-size: var(--paragraph-text-size);
+  color: var(--color-blueviolet);
+  font-family: var(--font-poppins);
+}

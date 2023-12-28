@@ -1,0 +1,52 @@
+.vuesaxlineardiamondsIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.collezioni {
+  position: relative;
+  font-weight: 500;
+}
+.vuesaxlineardiamondsParent {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.vuesaxoutlinemessageIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.messaggi {
+  position: absolute;
+  top: 0;
+  left: 41px;
+  font-weight: 500;
+}
+.vuesaxoutlinemessageParent {
+  position: relative;
+  width: 119px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.frameParent {
+  position: absolute;
+  top: 118px;
+  left: 9.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+  text-align: left;
+  font-size: var(--paragraph-text-size);
+  color: var(--color-dimgray-300);
+  font-family: var(--font-poppins);
+}

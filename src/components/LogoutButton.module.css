@@ -15,7 +15,7 @@
   justify-content: flex-start;
   gap: var(--gap-mid);
   text-align: left;
-  font-size: var(--font-size-base);
+  font-size: var(--paragraph-text-size);
   color: var(--color-dimgray-200);
   font-family: var(--font-poppins);
 }

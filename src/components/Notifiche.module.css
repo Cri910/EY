@@ -40,7 +40,7 @@
   width: 48px;
   height: 50.2px;
   text-align: left;
-  font-size: var(--font-size-xs);
+  font-size: var(--regular-12-16-size);
   color: var(--color-whitesmoke-300);
   font-family: var(--font-poppins);
 }

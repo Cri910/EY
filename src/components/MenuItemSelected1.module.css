@@ -1,0 +1,27 @@
+.vuesaxoutlinemessageIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.messaggi {
+  position: relative;
+  font-weight: 500;
+}
+.menuItemSelected {
+  border-radius: var(--br-4xl);
+  background-color: var(--color-gray-800);
+  width: 285px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-97xl) var(--padding-xl)
+    var(--padding-mid);
+  box-sizing: border-box;
+  gap: var(--gap-mid);
+  text-align: left;
+  font-size: var(--paragraph-text-size);
+  color: var(--white);
+  font-family: var(--font-poppins);
+}

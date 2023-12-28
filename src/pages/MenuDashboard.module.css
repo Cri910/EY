@@ -1,0 +1,7 @@
+.menuDashboard {
+  position: relative;
+  border-radius: var(--br-8xs);
+  width: 100%;
+  height: 505px;
+  overflow: hidden;
+}

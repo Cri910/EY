@@ -1,0 +1,87 @@
+.vuesaxlineardiamondsIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.collezioni1 {
+  position: relative;
+  font-weight: 500;
+}
+.aiuto,
+.collezioni,
+.impostazioni,
+.wallet {
+  position: absolute;
+  top: 0;
+  left: 0;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.aiuto,
+.impostazioni,
+.wallet {
+  top: 71px;
+}
+.aiuto,
+.impostazioni {
+  top: 275.5px;
+}
+.aiuto {
+  top: 346.5px;
+}
+.dashboardIcon {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.dashboard {
+  position: absolute;
+  top: 115.8px;
+  left: -18.5px;
+  border-radius: var(--br-4xl);
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-97xl) var(--padding-xl)
+    var(--padding-mid);
+  gap: var(--gap-mid);
+}
+.home1 {
+  position: absolute;
+  top: 0;
+  left: 41px;
+  font-weight: 500;
+}
+.home,
+.vuesaxboldhomeIcon {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+.vuesaxboldhomeIcon {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.home {
+  top: -70px;
+  left: -0.5px;
+}
+.menuLaterale {
+  width: 145px;
+  height: 454px;
+  text-align: left;
+  font-size: var(--paragraph-text-size);
+  color: var(--color-dimgray-300);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,34 @@
+.titleFont {
+  position: absolute;
+  top: 19.1px;
+  left: 32.3px;
+  line-height: 44.81px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 155px;
+  height: 29.9px;
+}
+.metamask,
+.metamask1 {
+  position: absolute;
+  width: 289px;
+  height: 65px;
+}
+.metamask1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs-2);
+  background-color: var(--controls-neutral-control-color-40);
+  box-shadow: 0 1.9px 3.73px rgba(0, 0, 0, 0.05);
+  border: 1.9px solid var(--controls-neutral-control-color-70);
+  box-sizing: border-box;
+}
+.metamask {
+  top: 84px;
+  left: 30px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--controls-neutral-control-layer-color-100);
+  font-family: var(--font-poppins);
+}

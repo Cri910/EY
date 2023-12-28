@@ -1,10 +1,8 @@
-.homeLoginChild {
-  position: absolute;
-  top: 0;
-  left: -1.9px;
-  background-color: var(--color-gray-900);
-  width: 401.8px;
-  height: 1117px;
+.logoAlessandriaIcon {
+  position: relative;
+  width: 56.3px;
+  height: 56.3px;
+  object-fit: cover;
 }
 .alessandriaClub {
   margin: 0;
@@ -12,124 +10,165 @@
 .nftMarketplace {
   margin: 0;
   font-size: var(--font-size-sm);
-  color: #636363;
+  color: var(--color-dimgray-500);
 }
 .alessandriaClubNftContainer {
-  position: absolute;
-  top: 0;
-  left: 59px;
+  position: relative;
 }
-.alessandriaClubNftMarketplaWrapper {
-  position: absolute;
-  top: 67.5px;
-  left: 84.2px;
+.alessandriaClubNftMarketplaWrapper,
+.frame1 {
   width: 184px;
-  height: 47px;
-  flex-shrink: 0;
-}
-.frame3,
-.frame4 {
-  left: 0;
-  overflow: hidden;
-}
-.frame4 {
-  position: absolute;
-  top: 0;
-  width: 652px;
   display: flex;
   flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  margin-left: -37px;
+}
+.frame1 {
+  width: 202.3px;
+  height: 56.3px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  position: undefined;
+  margin-left: 9px;
+}
+.frame5,
+.menuItemSelectedParent {
+  width: 285px;
+  display: flex;
+  flex-direction: column;
+}
+.menuItemSelectedParent {
+  height: 542.9px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25px;
+}
+.frame5 {
+  position: absolute;
+  top: -9.3px;
+  left: 6.8px;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.menuSettings {
+  position: relative;
+  width: 343px;
+  height: 505px;
+  overflow: hidden;
+  flex-shrink: 0;
+  margin-top: -11px;
+}
+.frame4 {
+  height: 558.5px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame2,
+.frame3,
+.frame4 {
+  width: 343px;
+  flex-shrink: 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame3 {
+  height: 734px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame2 {
+  height: 819.2px;
+  gap: 61px;
+}
+.frame,
+.frame11,
+.frame12,
+.frame2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame {
+  position: absolute;
+  top: 0;
+  left: -1.9px;
+  background-color: var(--color-gray-900);
+  width: 401.8px;
+  height: 1117px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 62.874755859375px 0.37841796875px 62.874755859375px 58.37841796875px;
+  box-sizing: border-box;
+  gap: 84px;
+}
+.frame11,
+.frame12 {
+  width: 652px;
   align-items: center;
   justify-content: flex-end;
 }
-.frame3 {
-  top: 512px;
-  height: 363px;
+.frame11 {
+  position: absolute;
+  top: -12.8px;
+  left: 0;
+  height: 371.9px;
 }
-.frame,
-.frame1,
-.frame2,
-.frame3 {
+.frame10 {
+  align-self: stretch;
+  position: relative;
+  height: 363px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame9 {
+  position: absolute;
+  top: 512px;
+  left: -8px;
+  width: 1304px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame7,
+.frame8 {
   position: absolute;
   width: 1296px;
 }
-.frame2 {
+.frame8 {
   top: 126px;
   left: 0;
   height: 899px;
   overflow: hidden;
 }
-.frame,
-.frame1 {
+.frame7 {
   top: 71px;
   left: 19px;
   height: 1021px;
 }
-.frame {
+.frame6,
+.homeLogin {
+  height: 1117px;
+  overflow: hidden;
+}
+.frame6 {
+  position: absolute;
   top: 0;
   left: 428px;
   width: 1281px;
-  height: 1117px;
-  overflow: hidden;
-}
-.logoAlessandriaIcon {
-  position: absolute;
-  top: 62.9px;
-  left: 65.8px;
-  width: 56.3px;
-  height: 56.3px;
-  object-fit: cover;
-}
-.vuesaxoutlinesetting2Icon {
-  position: relative;
-  width: 24px;
-  height: 24px;
-  object-fit: cover;
-  display: none;
-}
-.messaggi {
-  position: relative;
-  font-weight: 500;
-  display: none;
-}
-.menuItemSelected {
-  position: absolute;
-  top: 0;
-  left: 0;
-  border-radius: var(--br-4xl);
-  background-color: var(--color-gray-800);
-  width: 285px;
-  height: 65.1px;
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: flex-start;
-  padding: var(--padding-xl) 118px var(--padding-xl) var(--padding-mid);
-  box-sizing: border-box;
-  gap: var(--gap-mid);
-}
-.menuItemSelectedParent,
-.menuSettings {
-  position: absolute;
-  top: -9.3px;
-  left: 6.8px;
-  width: 285px;
-  height: 542.9px;
-}
-.menuSettings {
-  top: 257.5px;
-  left: 56.5px;
-  width: 343px;
-  height: 505px;
-  overflow: hidden;
-  font-size: var(--font-size-base);
-  color: var(--color-white);
 }
 .homeLogin {
   position: relative;
-  background-color: #f4f4f4;
+  background-color: var(--color-whitesmoke-400);
   width: 100%;
-  height: 1117px;
-  overflow: hidden;
   text-align: left;
   font-size: var(--font-size-lg);
   color: var(--color-whitesmoke-300);

@@ -1,0 +1,146 @@
+.account1 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 72px;
+  flex-shrink: 0;
+}
+.account {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-5xs);
+}
+.sicurezza {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 107.9px;
+  flex-shrink: 0;
+}
+.header,
+.security {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.security {
+  border-bottom: 2px solid var(--color-blueviolet);
+  flex-shrink: 0;
+  padding: var(--padding-base) var(--padding-5xs);
+  color: var(--color-blueviolet);
+}
+.header {
+  border-bottom: 1px solid var(--special-bg3);
+  box-sizing: border-box;
+  width: 1040px;
+  gap: var(--gap-13xl);
+}
+.fullName {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  font-weight: 600;
+}
+.span {
+  font-weight: 500;
+}
+.tanzirRahman {
+  position: relative;
+  line-height: 24px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 492px;
+  flex-shrink: 0;
+}
+.tanzirRahmanWrapper {
+  position: absolute;
+  top: 32px;
+  left: 0;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-gray-500);
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-5xl);
+  color: var(--gray-02);
+  font-family: var(--regular-12-16);
+}
+.input,
+.phoneNumber {
+  position: absolute;
+  width: 540px;
+}
+.phoneNumber {
+  top: 325.8px;
+  left: 0;
+  height: 88px;
+  flex-shrink: 0;
+}
+.input {
+  top: 29.8px;
+  left: 17px;
+  height: 400px;
+}
+.aggiornaPassword {
+  position: absolute;
+  top: 21px;
+  left: 29.5px;
+  line-height: 24px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 164px;
+}
+.buttonBig {
+  position: absolute;
+  top: 516px;
+  left: 17px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-blueviolet);
+  width: 223px;
+  height: 66px;
+  text-align: center;
+  color: var(--white);
+}
+.updateProfile {
+  position: relative;
+  width: 557px;
+  height: 495px;
+}
+.accountsDetails,
+.settings {
+  width: 1040px;
+  height: 495px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  color: var(--secondary);
+}
+.settings {
+  position: absolute;
+  top: 273.2px;
+  left: 448px;
+  border-radius: var(--br-base);
+  background-color: var(--white);
+  box-shadow: var(--shadow-01);
+  width: 1163px;
+  height: 749px;
+  flex-direction: column;
+  padding: var(--padding-5xl) var(--padding-13xl) var(--padding-29xl);
+  box-sizing: border-box;
+  gap: var(--gap-13xl);
+  text-align: center;
+  font-size: var(--paragraph-text-size);
+  color: var(--gray-03);
+  font-family: var(--font-poppins);
+}

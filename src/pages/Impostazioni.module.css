@@ -1,0 +1,25 @@
+.vuesaxoutlinesetting2Icon {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.impostazioni,
+.impostazioni1,
+.vuesaxoutlinesetting2Icon {
+  position: relative;
+  display: none;
+}
+.impostazioni1 {
+  font-weight: 500;
+}
+.impostazioni {
+  width: 100%;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+  text-align: left;
+  font-size: var(--paragraph-text-size);
+  color: var(--white);
+  font-family: var(--font-poppins);
+}

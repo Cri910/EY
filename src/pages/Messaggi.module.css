@@ -1,0 +1,455 @@
+.messaggiChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-900);
+  width: 400px;
+  height: 1117px;
+}
+.alessandriaClub {
+  margin: 0;
+}
+.nftMarketplace {
+  margin: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-500);
+}
+.alessandriaClubNftContainer {
+  position: absolute;
+  top: 0;
+  left: 59px;
+}
+.alessandriaClubNftMarketplaWrapper {
+  position: absolute;
+  top: 70px;
+  left: 79px;
+  width: 184px;
+  height: 47px;
+}
+.messaggi1 {
+  position: absolute;
+  top: 173.1px;
+  left: 459.2px;
+  font-size: var(--font-size-14xl);
+  color: var(--color-darkslategray-300);
+}
+.mostraTutti1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.vuesaxlineararrowDownIcon {
+  position: absolute;
+  top: 0;
+  left: 99px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.mostraTutti {
+  position: absolute;
+  top: 186.1px;
+  left: 658px;
+  width: 123px;
+  height: 24px;
+  font-size: var(--paragraph-text-size);
+  color: var(--color-dimgray-100);
+}
+.menuButtonChild {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-400);
+  width: 60px;
+  height: 61px;
+}
+.menuButton,
+.menuIcon {
+  position: absolute;
+  height: 90px;
+}
+.menuIcon {
+  top: 0;
+  left: 15px;
+  width: 30px;
+  object-fit: cover;
+}
+.menuButton {
+  top: 119px;
+  left: 370px;
+  width: 60px;
+}
+.frameChild,
+.frameItem,
+.logoAlessandriaIcon {
+  position: absolute;
+  top: 63.9px;
+  left: 63.7px;
+  width: 56.3px;
+  height: 56.3px;
+  object-fit: cover;
+}
+.frameChild,
+.frameItem {
+  top: 156.5px;
+  left: 433px;
+  width: 23px;
+  height: 21px;
+}
+.frameItem {
+  top: 458.5px;
+  left: 1295px;
+  width: 24px;
+  height: 23px;
+}
+.frameInner {
+  position: absolute;
+  top: 0.5px;
+  left: 400px;
+  background-color: var(--color-gainsboro-400);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.06);
+  width: 792px;
+  height: 91px;
+}
+.ellinesIcon {
+  position: absolute;
+  top: 35.5px;
+  left: 1137px;
+  width: 28px;
+  height: 21px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frameChild1,
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  box-shadow: 0 3px 4px 4px rgba(0, 0, 0, 0.04);
+  width: 400px;
+  height: 846.2px;
+}
+.frameChild1 {
+  top: 317.5px;
+  left: 1px;
+  background-color: var(--color-whitesmoke-300);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.06);
+  width: 399px;
+  height: 71px;
+}
+.loremIpsumDolor,
+.loremIpsumDolor1,
+.loremIpsumDolor2 {
+  position: absolute;
+  top: 187.5px;
+  left: 78px;
+  font-size: var(--font-size-smi);
+  font-weight: 600;
+}
+.loremIpsumDolor1,
+.loremIpsumDolor2 {
+  top: 273.5px;
+}
+.loremIpsumDolor2 {
+  top: 352.5px;
+  left: 79px;
+  color: var(--color-gray-1400);
+}
+.benedetta,
+.cristina {
+  position: absolute;
+  top: 246.5px;
+  left: 78px;
+  font-weight: 600;
+  color: var(--color-black);
+}
+.benedetta {
+  top: 324.5px;
+  left: 79px;
+  color: var(--color-dimgray-300);
+}
+.frameChild2 {
+  top: 140.5px;
+  left: 452px;
+  border-radius: var(--br-4xl);
+  background-color: var(--white);
+  width: 457px;
+  height: 177px;
+}
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.frameChild5 {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.06);
+}
+.frameChild3 {
+  top: 459.5px;
+  left: 732px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-blueviolet);
+  width: 457px;
+  height: 153px;
+}
+.frameChild4,
+.frameChild5 {
+  background-color: var(--white);
+}
+.frameChild4 {
+  top: 338.5px;
+  left: 452px;
+  border-radius: var(--br-4xl);
+  width: 410px;
+  height: 72px;
+}
+.frameChild5 {
+  top: 22.5px;
+  left: 0;
+  width: 400px;
+  height: 87px;
+}
+.frameChild6,
+.frameChild7 {
+  position: absolute;
+  border-radius: var(--br-8xs);
+  box-shadow: 1px 1px 4px 2px rgba(0, 0, 0, 0.06);
+}
+.frameChild6 {
+  top: 45.5px;
+  left: 24px;
+  background-color: #f3f3f3;
+  width: 361px;
+  height: 43px;
+}
+.frameChild7 {
+  top: 787.2px;
+  left: 416px;
+  background-color: var(--white);
+  width: 776px;
+  height: 59px;
+}
+.cerca {
+  position: absolute;
+  top: 53.5px;
+  left: 47px;
+  font-weight: 600;
+  display: inline-block;
+  width: 240px;
+  height: 29px;
+}
+.akarIconssearch {
+  position: absolute;
+  top: 56.5px;
+  left: 354px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.vinceFlemingJ3lfJn6deoUnspIcon {
+  position: absolute;
+  top: 149.5px;
+  left: 10px;
+  border-radius: var(--br-11xl);
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.loremIpsumDolor3,
+.mariano {
+  position: absolute;
+  left: 78px;
+  font-weight: 600;
+}
+.loremIpsumDolor3 {
+  top: 437.5px;
+  font-size: var(--font-size-smi);
+}
+.mariano {
+  top: 410.5px;
+  color: var(--color-black);
+}
+.enea,
+.loremIpsumDolor4 {
+  position: absolute;
+  left: 76px;
+  font-weight: 600;
+}
+.loremIpsumDolor4 {
+  top: 517.5px;
+  font-size: var(--font-size-smi);
+}
+.enea {
+  top: 490.5px;
+  color: var(--color-black);
+}
+.vinceFlemingJ3lfJn6deoUnspIcon3 {
+  position: absolute;
+  top: 484.5px;
+  left: 8px;
+  border-radius: var(--br-11xl);
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.ellipseDiv,
+.groupChild {
+  position: absolute;
+  top: 246.5px;
+  left: 351px;
+  border-radius: 50%;
+  background-color: var(--color-blueviolet);
+  width: 30px;
+  height: 30px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+}
+.div {
+  position: absolute;
+  top: 2px;
+  left: 11px;
+  font-weight: 600;
+}
+.benedetta1,
+.div1,
+.ellipseParent,
+.mattia {
+  position: absolute;
+  color: var(--color-ghostwhite);
+}
+.ellipseParent {
+  top: 165.5px;
+  left: 351px;
+  width: 30px;
+  height: 30px;
+}
+.benedetta1,
+.div1,
+.mattia {
+  top: 248.5px;
+  left: 360px;
+  font-weight: 600;
+}
+.benedetta1,
+.mattia {
+  top: 160.5px;
+  left: 78px;
+  color: var(--color-black);
+}
+.benedetta1 {
+  top: 35.5px;
+  left: 514.5px;
+  font-size: var(--font-size-5xl);
+}
+.shannonVandenheuvelZ9p4m58hdIcon {
+  position: absolute;
+  top: 240.5px;
+  left: 10px;
+  border-radius: var(--br-11xl);
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.austinWadeX6uj51n5ce8UnsplaIcon,
+.jakeNackosIf9tk5uyKiUnsplaIcon,
+.jakeNackosIf9tk5uyKiUnsplaIcon1 {
+  position: absolute;
+  top: 322.5px;
+  left: 10px;
+  border-radius: var(--br-11xl);
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.austinWadeX6uj51n5ce8UnsplaIcon,
+.jakeNackosIf9tk5uyKiUnsplaIcon1 {
+  top: 20.5px;
+  left: 433px;
+}
+.austinWadeX6uj51n5ce8UnsplaIcon {
+  top: 404.5px;
+  left: 10px;
+}
+.loremIpsumDolor5,
+.loremIpsumDolor6,
+.loremIpsumDolor7 {
+  position: absolute;
+  top: 160.5px;
+  left: 478px;
+  font-size: var(--font-size-mini);
+  font-weight: 600;
+  color: var(--color-gray-1300);
+  display: inline-block;
+  width: 408px;
+}
+.loremIpsumDolor6,
+.loremIpsumDolor7 {
+  top: 475px;
+  left: 769.9px;
+  color: var(--white);
+}
+.loremIpsumDolor7 {
+  top: 347.5px;
+  left: 480px;
+  color: var(--color-gray-1300);
+  width: 359px;
+}
+.pm,
+.pm1 {
+  font-size: var(--font-size-smi);
+}
+.pm {
+  position: absolute;
+  top: 288.5px;
+  left: 838px;
+  font-weight: 600;
+  color: var(--color-plum-100);
+}
+.pm1 {
+  top: 575px;
+  left: 1127.9px;
+  color: var(--color-whitesmoke-100);
+}
+.iniziaADigitare,
+.pm1,
+.pm2 {
+  position: absolute;
+  font-weight: 600;
+}
+.pm2 {
+  top: 381.5px;
+  left: 797px;
+  font-size: var(--font-size-smi);
+  color: var(--color-plum-100);
+}
+.iniziaADigitare {
+  top: 802.2px;
+  left: 440.5px;
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 240px;
+  height: 29px;
+}
+.vectorParent {
+  position: absolute;
+  top: 235px;
+  left: 447px;
+  width: 1226px;
+  height: 837px;
+  color: var(--color-silver-100);
+}
+.messaggi {
+  position: relative;
+  background-color: var(--color-whitesmoke-400);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-whitesmoke-300);
+  font-family: var(--font-poppins);
+}

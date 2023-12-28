@@ -1,0 +1,101 @@
+.cardChild,
+.frameIcon {
+  position: absolute;
+  left: 0;
+}
+.frameIcon {
+  top: 352px;
+  width: 321px;
+  height: 45px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.cardChild {
+  top: 269px;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+  background-color: var(--color-gray-1100);
+  backdrop-filter: blur(32px);
+  width: 352px;
+  height: 77px;
+}
+.nomeGiocatore {
+  position: relative;
+  line-height: 22px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 196.1px;
+  height: 43px;
+  flex-shrink: 0;
+}
+.frame,
+.frame1 {
+  position: absolute;
+  top: 0;
+  left: -2px;
+  width: 198px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame1 {
+  top: 25px;
+  width: 100px;
+  align-items: center;
+  font-size: var(--regular-12-16-size);
+  color: var(--color-gainsboro-200);
+}
+.frameParent {
+  position: absolute;
+  top: 286px;
+  left: 22px;
+  width: 225px;
+  height: 43px;
+}
+.vuesaxboldclockIcon {
+  position: relative;
+  width: 21px;
+  height: 21px;
+  object-fit: cover;
+}
+.h22m {
+  position: relative;
+  font-weight: 500;
+}
+.vuesaxboldclockParent {
+  position: absolute;
+  top: 292px;
+  left: 217px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-1100);
+  backdrop-filter: blur(32px);
+  width: 135px;
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-4xs);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  font-size: var(--regular-12-16-size);
+  color: var(--color-gainsboro-200);
+}
+.card {
+  position: absolute;
+  top: 327px;
+  left: 444px;
+  width: 352px;
+  height: 346px;
+  overflow: hidden;
+  background-image: url(/public/card@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke-300);
+  font-family: var(--font-poppins);
+}

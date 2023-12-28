@@ -7,7 +7,7 @@
 .mostraTutti {
   top: 11px;
   left: 414.3px;
-  font-size: var(--font-size-base);
+  font-size: var(--paragraph-text-size);
   color: var(--color-dimgray-100);
   display: inline-block;
   width: 91px;

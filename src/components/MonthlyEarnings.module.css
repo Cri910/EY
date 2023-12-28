@@ -1,0 +1,227 @@
+.monthlyEarningsChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background: linear-gradient(
+    143.41deg,
+    rgba(71, 211, 255, 0.29),
+    rgba(144, 57, 198, 0.31)
+  );
+  border: 1px solid var(--color-darkslateblue-100);
+  box-sizing: border-box;
+}
+.monthlyEarningsInner,
+.monthlyEarningsItem {
+  position: absolute;
+  height: 4.37%;
+  width: 6.4%;
+  border-radius: 50%;
+  filter: blur(20px);
+}
+.monthlyEarningsItem {
+  top: 4.41%;
+  right: 8.27%;
+  bottom: 91.22%;
+  left: 85.33%;
+  background: linear-gradient(180deg, #ff9190, #d21f96);
+  display: none;
+}
+.monthlyEarningsInner {
+  top: 4.74%;
+  right: 9.25%;
+  bottom: 90.89%;
+  left: 84.35%;
+  background: linear-gradient(180deg, #3f69ff, #9832ff);
+}
+.groupIcon,
+.vectorIcon {
+  position: absolute;
+  right: 9.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.vectorIcon {
+  height: 4.18%;
+  width: 4.96%;
+  top: 4.74%;
+  bottom: 91.08%;
+  left: 85.57%;
+  border-radius: var(--br-3xs);
+}
+.groupIcon {
+  height: 27.12%;
+  width: 81.07%;
+  top: 40.86%;
+  bottom: 32.03%;
+  left: 9.46%;
+}
+.guadagnoMensile {
+  position: absolute;
+  height: 4.08%;
+  width: 47.42%;
+  top: 22.07%;
+  left: 8.22%;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.apr,
+.feb,
+.gen,
+.mag,
+.mar {
+  position: absolute;
+  height: 3.22%;
+  top: 69.49%;
+  display: inline-block;
+}
+.gen {
+  width: 11.31%;
+  left: 8.24%;
+  text-align: center;
+}
+.apr,
+.feb,
+.mag,
+.mar {
+  width: 11.04%;
+  left: 28.5%;
+}
+.apr,
+.mag,
+.mar {
+  width: 9.71%;
+  left: 45.91%;
+}
+.apr,
+.mag {
+  width: 9.03%;
+  left: 63.72%;
+}
+.mag {
+  width: 10.52%;
+  left: 81.51%;
+}
+.div {
+  height: 10.17%;
+  width: 47.7%;
+  top: 26.82%;
+  left: 7.94%;
+  font-size: var(--font-size-31xl);
+}
+.div,
+.federico,
+.hi,
+.ultimiOrdini {
+  position: absolute;
+  display: inline-block;
+}
+.ultimiOrdini {
+  height: 6.1%;
+  width: 44.79%;
+  top: 78.94%;
+  left: 7.65%;
+  font-size: var(--font-size-11xl);
+}
+.federico,
+.hi {
+  font-size: var(--font-size-xl);
+}
+.hi {
+  height: 4.08%;
+  width: 8.19%;
+  top: 6.74%;
+  left: 27.25%;
+}
+.federico {
+  width: 22.75%;
+  top: 10.82%;
+  left: 28.2%;
+}
+.maskGroupIcon {
+  position: absolute;
+  height: 11.02%;
+  width: 16.08%;
+  top: 5.61%;
+  right: 76.33%;
+  bottom: 83.37%;
+  left: 7.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div1,
+.nick {
+  position: absolute;
+  height: 53.42%;
+  width: 17.54%;
+  top: 23.29%;
+  left: 17.48%;
+  display: inline-block;
+}
+.div1 {
+  width: 25.92%;
+  left: 74.08%;
+  text-align: right;
+}
+.maskGroupIcon1 {
+  position: absolute;
+  height: 100%;
+  width: 13.2%;
+  top: 0;
+  right: 86.8%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.nickParent {
+  position: absolute;
+  height: 7.63%;
+  width: 84.41%;
+  top: 88.71%;
+  right: 8%;
+  bottom: 3.66%;
+  left: 7.59%;
+  font-size: var(--font-size-xl);
+}
+.monthlyEarningsChild1,
+.monthlyEarningsChild2 {
+  position: absolute;
+  height: 0.17%;
+  width: 5.59%;
+  top: 82.67%;
+  right: 8.22%;
+  bottom: 17.15%;
+  left: 86.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.monthlyEarningsChild2 {
+  height: 1.57%;
+  width: 1.11%;
+  top: 81.87%;
+  right: 8.27%;
+  bottom: 16.56%;
+  left: 90.62%;
+}
+.monthlyEarnings {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 368.8px;
+  height: 574.2px;
+  text-align: left;
+  font-size: var(--paragraph-text-size);
+  color: var(--white);
+  font-family: var(--paragraph-text);
+}

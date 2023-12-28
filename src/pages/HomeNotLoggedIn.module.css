@@ -1,0 +1,652 @@
+.frameChild {
+  background-color: var(--color-gray-900);
+}
+.frameChild,
+.homeNotLoggedInInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 400px;
+  height: 1117px;
+}
+.alessandriaClub {
+  margin: 0;
+}
+.nftMarketplace {
+  margin: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-500);
+}
+.alessandriaClubNftContainer {
+  position: relative;
+}
+.alessandriaClubNftMarketplaWrapper {
+  position: absolute;
+  top: 70.5px;
+  left: 100px;
+  width: 184px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-whitesmoke-300);
+}
+.dotIcon {
+  position: absolute;
+  top: 80px;
+  left: 360px;
+  width: 4px;
+  height: 16px;
+  object-fit: cover;
+}
+.bestSellersDel,
+.mostraTutti {
+  position: absolute;
+  top: 217px;
+  left: 460px;
+  font-size: var(--font-size-14xl);
+  color: var(--color-darkslategray-300);
+}
+.mostraTutti {
+  top: 230px;
+  left: 864px;
+  font-size: var(--paragraph-text-size);
+  color: var(--color-dimgray-100);
+}
+.homeNotLoggedInChild {
+  position: absolute;
+  top: 55px;
+  left: 934px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  box-shadow: var(--style-one);
+  width: 409px;
+  height: 74px;
+}
+.cerca {
+  position: absolute;
+  top: 85px;
+  left: 996px;
+  font-size: var(--paragraph-text-size);
+  color: var(--color-dimgray-100);
+}
+.loginRoundedIcon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.login {
+  position: relative;
+  font-weight: 500;
+}
+.loginRoundedParent {
+  position: absolute;
+  top: 55px;
+  left: 1410px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  box-shadow: var(--style-one);
+  width: 134px;
+  height: 74px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) var(--padding-3xl);
+  box-sizing: border-box;
+  gap: var(--gap-xs);
+  font-size: var(--paragraph-text-size);
+  color: var(--color-gray-600);
+}
+.vuesaxlineararrowDownIcon,
+.vuesaxlinearsearchNormalIcon {
+  position: absolute;
+  top: 230px;
+  left: 963px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.vuesaxlinearsearchNormalIcon {
+  top: 85px;
+  left: 952px;
+}
+.frameItem {
+  position: relative;
+  width: 20px;
+  height: 12px;
+  object-fit: cover;
+}
+.frameInner {
+  position: relative;
+  border: 1.5px solid var(--color-gray-1000);
+  box-sizing: border-box;
+  width: 7px;
+  height: 7px;
+}
+.frame1,
+.frame2 {
+  width: 16px;
+  height: 7px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.frame1 {
+  height: 16px;
+  flex-direction: column;
+}
+.lineDiv {
+  position: relative;
+  border-top: 1px solid var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 15px;
+  height: 1px;
+}
+.frame,
+.frameParent {
+  width: 16px;
+  height: 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame {
+  width: 56px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+}
+.span {
+  color: var(--color-darkgray);
+}
+.filter {
+  position: absolute;
+  top: 248px;
+  left: 1469px;
+  width: 145px;
+  height: 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  font-size: var(--font-size-smi);
+  color: var(--color-darkslategray-100);
+}
+.homeNotLoggedInChild1,
+.homeNotLoggedInItem {
+  position: absolute;
+  top: 799px;
+  left: 458px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  box-shadow: var(--style-one);
+  width: 652px;
+  height: 277px;
+}
+.homeNotLoggedInChild1 {
+  top: 719px;
+  left: 1150px;
+  width: 501px;
+  height: 357px;
+}
+.span1 {
+  color: var(--color-silver);
+}
+.iPiApprezzatiContainer,
+.loremIpsum,
+.loremIpsum1,
+.loremIpsum2 {
+  position: absolute;
+  top: 733px;
+  left: 458px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  color: var(--color-darkslategray-300);
+}
+.loremIpsum,
+.loremIpsum1,
+.loremIpsum2 {
+  top: 830px;
+  left: 566px;
+  font-size: var(--font-size-lg);
+}
+.loremIpsum1,
+.loremIpsum2 {
+  top: 910px;
+}
+.loremIpsum2 {
+  top: 994px;
+}
+.minsonJolia,
+.vediTutti {
+  position: absolute;
+  top: 869px;
+  left: 566px;
+  font-weight: 500;
+}
+.vediTutti {
+  top: 748px;
+  left: 1025.5px;
+  font-size: var(--paragraph-text-size);
+  font-weight: 600;
+}
+.minsonJolia1,
+.minsonJolia2 {
+  position: absolute;
+  top: 949px;
+  left: 566px;
+  font-weight: 500;
+}
+.minsonJolia2 {
+  top: 1033px;
+}
+.eth,
+.eth1,
+.eth2,
+.price,
+.price1,
+.price2 {
+  position: absolute;
+  top: 835px;
+  left: 1008px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.eth,
+.eth1,
+.eth2,
+.price1,
+.price2 {
+  top: 915px;
+}
+.eth,
+.eth1,
+.eth2,
+.price2 {
+  top: 999px;
+}
+.eth,
+.eth1,
+.eth2 {
+  top: 866px;
+  font-weight: 600;
+  color: var(--color-darkslategray-200);
+}
+.eth1,
+.eth2 {
+  top: 946px;
+}
+.eth2 {
+  top: 1030px;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  top: 870px;
+  left: 692px;
+  color: var(--color-lightgreen);
+}
+.div1,
+.div2 {
+  top: 950px;
+}
+.div2 {
+  top: 1034px;
+}
+.vuesaxlinearethereumEthIcon,
+.vuesaxlinearethereumEthIcon1,
+.vuesaxlinearethereumEthIcon2 {
+  position: absolute;
+  top: 864px;
+  left: 1062px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.vuesaxlinearethereumEthIcon1,
+.vuesaxlinearethereumEthIcon2 {
+  top: 944px;
+}
+.vuesaxlinearethereumEthIcon2 {
+  top: 1028px;
+}
+.homeNotLoggedInChild2,
+.homeNotLoggedInChild3,
+.rectangleIcon {
+  position: absolute;
+  top: 824px;
+  left: 482px;
+  border-radius: var(--br-xl);
+  width: 67px;
+  height: 67px;
+  object-fit: cover;
+}
+.homeNotLoggedInChild2,
+.homeNotLoggedInChild3 {
+  top: 904px;
+}
+.homeNotLoggedInChild3 {
+  top: 988px;
+}
+.vuesaxoutlinearrowUpIcon,
+.vuesaxoutlinearrowUpIcon1,
+.vuesaxoutlinearrowUpIcon2 {
+  position: absolute;
+  top: 861px;
+  left: 658px;
+  width: 33.6px;
+  height: 33.6px;
+  object-fit: contain;
+}
+.vuesaxoutlinearrowUpIcon1,
+.vuesaxoutlinearrowUpIcon2 {
+  top: 941px;
+}
+.vuesaxoutlinearrowUpIcon2 {
+  top: 1025px;
+}
+.homeNotLoggedInChild4 {
+  position: absolute;
+  top: 988px;
+  left: 459px;
+  background: linear-gradient(
+    180deg,
+    rgba(250, 250, 250, 0.76),
+    rgba(255, 255, 255, 0.76)
+  );
+  width: 649px;
+  height: 83px;
+}
+.connectWallet {
+  position: absolute;
+  top: 746px;
+  left: 1182.3px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-darkslategray-300);
+}
+.groupIcon {
+  position: absolute;
+  top: 805.1px;
+  left: 1492px;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+.homeNotLoggedInChild5 {
+  position: absolute;
+  top: 993px;
+  left: 1180px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-900);
+  width: 437px;
+  height: 61px;
+}
+.creaWallet,
+.div3 {
+  position: absolute;
+  font-weight: 500;
+}
+.creaWallet {
+  top: 1013px;
+  left: 1367px;
+  font-size: var(--font-size-sm);
+  color: var(--color-whitesmoke-100);
+}
+.div3 {
+  top: 1px;
+  left: 5px;
+}
+.ellipseDiv,
+.parent {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+}
+.ellipseDiv {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.parent {
+  top: 1014px;
+  left: 1339px;
+  color: var(--color-gainsboro-300);
+}
+.homeNotLoggedInChild6 {
+  position: absolute;
+  top: 134px;
+  left: 370px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-400);
+  width: 60px;
+  height: 61px;
+}
+.menuIcon {
+  position: absolute;
+  top: 119px;
+  left: 385px;
+  width: 30px;
+  height: 90px;
+  object-fit: cover;
+}
+.homeNotLoggedInChild7,
+.homeNotLoggedInChild8 {
+  position: absolute;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+  background-color: var(--color-gray-1100);
+  backdrop-filter: blur(32px);
+}
+.homeNotLoggedInChild7 {
+  height: 6.89%;
+  width: 20.37%;
+  top: 53.22%;
+  right: 30.53%;
+  bottom: 39.88%;
+  left: 49.1%;
+}
+.homeNotLoggedInChild8 {
+  top: 596.5px;
+  left: 840px;
+  width: 352px;
+  height: 77px;
+}
+.stemmaUs1Icon {
+  position: absolute;
+  top: 63.9px;
+  left: 54.3px;
+  width: 56.3px;
+  height: 56.3px;
+  object-fit: cover;
+}
+.titleFont {
+  position: relative;
+  line-height: 44.81px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 155px;
+  height: 29.9px;
+  flex-shrink: 0;
+}
+.metamask,
+.titleFont1 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.metamask {
+  top: 803px;
+  left: 1180px;
+  border-radius: var(--br-xs-2);
+  background-color: var(--controls-neutral-control-color-40);
+  box-shadow: 0 1.9px 3.73px rgba(0, 0, 0, 0.05);
+  border: 1.9px solid var(--controls-neutral-control-color-70);
+  box-sizing: border-box;
+  width: 289px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2.015899658203125px 31.745121002197266px 2.9841041564941406px;
+  font-size: var(--font-size-xl);
+  color: var(--controls-neutral-control-layer-color-100);
+}
+.titleFont1 {
+  top: 16.5px;
+  left: 31.4px;
+  line-height: 44.81px;
+  font-weight: 600;
+  width: 288.2px;
+  height: 29.9px;
+}
+.walletconnectIcon {
+  position: absolute;
+  top: 19.8px;
+  right: 40.7px;
+  width: 40px;
+  height: 25.3px;
+  object-fit: cover;
+}
+.metamask1 {
+  position: absolute;
+  top: 891px;
+  left: 1180px;
+  border-radius: var(--br-xs-2);
+  background-color: var(--controls-neutral-control-color-40);
+  box-shadow: 0 1.9px 3.73px rgba(0, 0, 0, 0.05);
+  border: 1.9px solid var(--controls-neutral-control-color-70);
+  box-sizing: border-box;
+  width: 289px;
+  height: 65px;
+  font-size: var(--font-size-xl);
+  color: var(--controls-neutral-control-layer-color-100);
+}
+.vuesaxboldclockIcon {
+  position: relative;
+  width: 21px;
+  height: 21px;
+  object-fit: cover;
+}
+.vuesaxboldclockGroup,
+.vuesaxboldclockParent {
+  position: absolute;
+  top: 621px;
+  left: 1055px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-1100);
+  backdrop-filter: blur(32px);
+  width: 135px;
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-4xs);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  color: var(--color-gainsboro-200);
+}
+.vuesaxboldclockGroup {
+  left: 1451.5px;
+}
+.nomeGiocatore {
+  position: relative;
+  line-height: 22px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 196.1px;
+  height: 43px;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.soroushnrz7 {
+  position: absolute;
+  margin: 0 !important;
+  top: 25px;
+  left: -2px;
+  font-size: var(--regular-12-16-size);
+  font-weight: 500;
+  color: var(--color-gainsboro-200);
+  z-index: 1;
+}
+.nomeGiocatoreParent {
+  position: absolute;
+  top: 616px;
+  left: 1260.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke-300);
+}
+.nomeGiocatore1 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 196.1px;
+  height: 43px;
+  flex-shrink: 0;
+}
+.frame4,
+.frame5 {
+  position: absolute;
+  top: 0;
+  left: -2px;
+  width: 198px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame5 {
+  top: 25px;
+  width: 100px;
+  align-items: center;
+  font-size: var(--regular-12-16-size);
+  color: var(--color-gainsboro-200);
+}
+.frameGroup {
+  position: absolute;
+  top: 613px;
+  left: 860.3px;
+  width: 225px;
+  height: 43px;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke-300);
+}
+.homeNotLoggedIn {
+  position: relative;
+  background-color: var(--color-whitesmoke-400);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--regular-12-16-size);
+  color: var(--color-gray-500);
+  font-family: var(--font-poppins);
+}

@@ -1,28 +1,3 @@
-.vuesaxlineardiamondsIcon {
-  position: relative;
-  width: 24px;
-  height: 24px;
-  object-fit: cover;
-}
-.collezioni1 {
-  position: relative;
-  font-weight: 500;
-}
-.collezioni,
-.wallet {
-  position: absolute;
-  top: 0;
-  left: 0;
-  flex-shrink: 0;
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-mid);
-}
-.wallet {
-  top: 71px;
-}
 .vuesaxoutlinesetting2Icon {
   position: relative;
   width: 24px;
@@ -35,25 +10,56 @@
   font-weight: 500;
   display: none;
 }
-.aiuto,
 .impostazioni {
   position: absolute;
+  top: 275.5px;
+  left: 0;
   flex-shrink: 0;
+  display: none;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+  color: var(--white);
+}
+.vuesaxlineardiamondsIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.collezioni1 {
+  position: relative;
+  font-weight: 500;
+}
+.collezioni {
+  display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
   gap: var(--gap-mid);
 }
-.impostazioni {
-  top: 275.5px;
-  left: 0;
-  display: none;
-  color: var(--color-white);
-}
-.aiuto {
-  top: 345.8px;
-  left: 1.7px;
+.frame,
+.frame1,
+.frame2 {
+  position: absolute;
+  top: 0;
+  left: -18.5px;
+  width: 137.5px;
+  overflow: hidden;
   display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame1,
+.frame2 {
+  top: 71px;
+  width: 111.5px;
+}
+.frame2 {
+  top: 345.8px;
+  width: 103.2px;
 }
 .dashboardIcon {
   position: relative;
@@ -77,21 +83,7 @@
     var(--padding-mid);
   gap: var(--gap-mid);
 }
-.vuesaxoutlinemessageIcon {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 24px;
-  height: 24px;
-  object-fit: cover;
-}
-.messaggi1 {
-  position: absolute;
-  top: 0;
-  left: 41px;
-  font-weight: 500;
-}
-.groupChild {
+.frameChild {
   position: absolute;
   top: 0;
   left: 0;
@@ -112,45 +104,76 @@
   left: 218.2px;
   width: 30px;
   height: 30px;
+}
+.frame4,
+.messaggi {
+  width: 119px;
+  height: 24px;
+}
+.frame4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+  font-size: var(--paragraph-text-size);
+  color: var(--color-dimgray-300);
+}
+.messaggi {
+  position: relative;
+}
+.frame3 {
+  position: absolute;
+  top: 206px;
+  left: -18.5px;
+  width: 137.5px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
   font-size: var(--font-size-lg);
   color: var(--color-ghostwhite);
 }
-.messaggi {
-  position: absolute;
-  top: 206px;
-  left: 0;
-  width: 119px;
-  height: 24px;
-  flex-shrink: 0;
-}
-.home,
-.impostazioni2 {
-  position: absolute;
-  left: -0.5px;
-}
 .home {
-  top: -70px;
   width: 89px;
   height: 24px;
-  color: var(--color-white);
-}
-.impostazioni2 {
-  top: 276.3px;
-  flex-shrink: 0;
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: center;
   justify-content: flex-start;
   gap: var(--gap-mid);
 }
-.menuLaterale {
+.frame5,
+.frame6 {
   position: absolute;
-  top: 90.5px;
-  left: 8.7px;
+  left: -18.5px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame5 {
+  top: -70px;
+  width: 107px;
+  color: var(--white);
+}
+.frame6 {
+  top: 276.3px;
+  width: 163px;
+}
+.menuLaterale {
+  position: undefined;
   width: 145px;
   height: 452.4px;
+  margin-left: 9px;
   text-align: left;
-  font-size: var(--font-size-base);
+  font-size: var(--paragraph-text-size);
   color: var(--color-dimgray-300);
   font-family: var(--font-poppins);
 }
