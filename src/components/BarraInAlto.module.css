@@ -1,0 +1,55 @@
+.vuesaxlinearethereumEthIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.eth {
+  position: relative;
+  font-weight: 500;
+}
+.ethOwned {
+  position: absolute;
+  top: 4px;
+  left: 818.9px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  box-shadow: var(--style-one);
+  height: 74px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) var(--padding-3xl);
+  box-sizing: border-box;
+  gap: var(--gap-xs);
+}
+.bentornatoFederico,
+.bentornatoFederico1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.bentornatoFederico {
+  top: 17.5px;
+  width: 282px;
+  height: 39px;
+  font-size: var(--font-size-7xl);
+  color: var(--color-gray-800);
+}
+.profileImageIcon {
+  position: absolute;
+  top: 0;
+  left: 1088px;
+  width: 75px;
+  height: 74px;
+  object-fit: cover;
+}
+.barraInAlto {
+  width: 1163px;
+  height: 78px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-600);
+  font-family: var(--font-poppins);
+}

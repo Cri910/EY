@@ -1,0 +1,162 @@
+.ilMioWalletChild {
+  position: absolute;
+  top: 101px;
+  left: 2.5px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  box-shadow: var(--style-one);
+  width: 501px;
+  height: 272px;
+}
+.ilMioWallet1 {
+  position: absolute;
+  top: 86px;
+  left: 4px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.ethereum1 {
+  color: var(--color-gray-200);
+}
+.ethereum {
+  position: absolute;
+  top: 148px;
+  left: 63px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.address0x13r456hk4,
+.aggiornato2Min {
+  position: absolute;
+  top: 93px;
+  left: 147px;
+  font-weight: 500;
+  color: var(--color-gray-400);
+}
+.address0x13r456hk4 {
+  top: 205px;
+  left: 4px;
+}
+.ilTuoWalletChild {
+  position: absolute;
+  top: 84.5px;
+  left: 350px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 71px;
+  height: 35px;
+}
+.eth {
+  position: absolute;
+  top: 94.5px;
+  left: 366px;
+  color: var(--color-dimgray-100);
+}
+.vuesaxlineararrowDownIcon {
+  position: absolute;
+  top: 94.5px;
+  left: 393px;
+  width: 19px;
+  height: 19px;
+  object-fit: cover;
+}
+.ilTuoWalletItem {
+  position: absolute;
+  top: 243px;
+  left: 6px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-900);
+  width: 437px;
+  height: 61px;
+}
+.aggiungiFondi,
+.div {
+  position: absolute;
+  font-weight: 500;
+}
+.aggiungiFondi {
+  top: 263px;
+  left: 193px;
+  font-size: var(--font-size-sm);
+  color: var(--color-whitesmoke-100);
+}
+.div {
+  top: 1px;
+  left: 5px;
+}
+.groupChild,
+.parent {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.parent {
+  top: 264px;
+  left: 165px;
+  color: var(--color-gainsboro-300);
+}
+.ilTuoWallet {
+  position: absolute;
+  top: 39px;
+  left: 24.5px;
+  width: 457px;
+  height: 304px;
+}
+.ethereum2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.groupItem {
+  position: absolute;
+  top: 39px;
+  left: 24px;
+  border-top: 4px solid var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 62px;
+  height: 4px;
+}
+.ethereumParent {
+  position: relative;
+  width: 109px;
+  height: 41px;
+  color: var(--color-darkslategray-300);
+}
+.bnb {
+  position: relative;
+  font-weight: 600;
+}
+.vuesaxoutlinerefresh2Icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.crypto {
+  position: absolute;
+  top: 18.5px;
+  left: 33.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-47xl);
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-300);
+}
+.ilMioWallet {
+  width: 501px;
+  height: 382px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-300);
+  font-family: var(--font-poppins);
+}

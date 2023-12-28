@@ -1,0 +1,180 @@
+.iPiApprezzatiChild {
+  position: absolute;
+  top: 57.5px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  box-shadow: var(--style-one);
+  width: 652px;
+  height: 301.7px;
+}
+.span {
+  color: var(--color-silver);
+}
+.iPiApprezzatiContainer,
+.loremIpsum,
+.loremIpsum1,
+.loremIpsum2 {
+  position: absolute;
+  font-weight: 600;
+  color: var(--color-darkslategray-300);
+}
+.iPiApprezzatiContainer {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 240px;
+  height: 37.6px;
+}
+.loremIpsum,
+.loremIpsum1,
+.loremIpsum2 {
+  top: 93.2px;
+  left: 108px;
+  font-size: var(--font-size-lg);
+}
+.loremIpsum1,
+.loremIpsum2 {
+  top: 173.2px;
+}
+.loremIpsum2 {
+  top: 257.2px;
+}
+.minsonJolia,
+.vediTutti {
+  position: absolute;
+  top: 132.2px;
+  left: 108px;
+  font-weight: 500;
+}
+.vediTutti {
+  top: 11.2px;
+  left: 567.5px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.minsonJolia1,
+.minsonJolia2 {
+  position: absolute;
+  top: 212.2px;
+  left: 108px;
+  font-weight: 500;
+}
+.minsonJolia2 {
+  top: 296.2px;
+}
+.eth,
+.eth1,
+.eth2,
+.price,
+.price1,
+.price2 {
+  position: absolute;
+  top: 98.2px;
+  left: 550px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.eth,
+.eth1,
+.eth2,
+.price1,
+.price2 {
+  top: 178.2px;
+}
+.eth,
+.eth1,
+.eth2,
+.price2 {
+  top: 262.2px;
+}
+.eth,
+.eth1,
+.eth2 {
+  top: 129.2px;
+  font-weight: 600;
+  color: var(--color-darkslategray-200);
+}
+.eth1,
+.eth2 {
+  top: 209.2px;
+}
+.eth2 {
+  top: 293.2px;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  top: 133.2px;
+  left: 234px;
+  color: var(--color-lightgreen);
+}
+.div1,
+.div2 {
+  top: 213.2px;
+}
+.div2 {
+  top: 297.2px;
+}
+.vuesaxlinearethereumEthIcon,
+.vuesaxlinearethereumEthIcon1,
+.vuesaxlinearethereumEthIcon2 {
+  position: absolute;
+  top: 127.2px;
+  left: 604px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.vuesaxlinearethereumEthIcon1,
+.vuesaxlinearethereumEthIcon2 {
+  top: 207.2px;
+}
+.vuesaxlinearethereumEthIcon2 {
+  top: 291.2px;
+}
+.iPiApprezzatiInner,
+.iPiApprezzatiItem,
+.rectangleIcon {
+  position: absolute;
+  top: 87.2px;
+  left: 24px;
+  border-radius: var(--br-xl);
+  width: 67px;
+  height: 67px;
+  object-fit: cover;
+}
+.iPiApprezzatiInner,
+.rectangleIcon {
+  top: 167.2px;
+}
+.rectangleIcon {
+  top: 251.2px;
+}
+.vuesaxoutlinearrowUpIcon,
+.vuesaxoutlinearrowUpIcon1,
+.vuesaxoutlinearrowUpIcon2 {
+  position: absolute;
+  top: 124.2px;
+  left: 200px;
+  width: 33.6px;
+  height: 33.6px;
+  object-fit: contain;
+}
+.vuesaxoutlinearrowUpIcon1,
+.vuesaxoutlinearrowUpIcon2 {
+  top: 204.2px;
+}
+.vuesaxoutlinearrowUpIcon2 {
+  top: 288.2px;
+}
+.iPiApprezzati {
+  width: 652px;
+  height: 359.1px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-500);
+  font-family: var(--font-poppins);
+}

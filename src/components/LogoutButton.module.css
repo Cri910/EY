@@ -1,0 +1,21 @@
+.vuesaxlinearlogoutIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.logOut {
+  position: relative;
+  font-weight: 500;
+}
+.logoutButton {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-poppins);
+}

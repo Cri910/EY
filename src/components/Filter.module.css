@@ -1,0 +1,76 @@
+.frameChild {
+  position: relative;
+  width: 20px;
+  height: 12px;
+  object-fit: cover;
+}
+.frameItem {
+  position: relative;
+  border: 1.5px solid var(--color-gray-1000);
+  box-sizing: border-box;
+  width: 7px;
+  height: 7px;
+}
+.frame1,
+.frame2 {
+  width: 16px;
+  height: 7px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.frame1 {
+  height: 16px;
+  flex-direction: column;
+}
+.lineDiv {
+  position: relative;
+  border-top: 1px solid var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 15px;
+  height: 1px;
+}
+.frame,
+.frameParent {
+  width: 16px;
+  height: 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame {
+  width: 56px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+}
+.span {
+  color: var(--color-darkgray);
+}
+.new139 {
+  position: relative;
+  font-weight: 500;
+}
+.filter {
+  width: 145px;
+  height: 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-3xl: 22px;
+  --font-size-xs: 12px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-6xl: 25px;
+  --font-size-smi: 13px;
+  --font-size-14xl: 33px;
+  --font-size-7xl: 26px;
+
+  /* Colors */
+  --color-dimgray-100: #727272;
+  --color-dimgray-200: #717171;
+  --color-dimgray-300: #565656;
+  --color-gray-100: #fafafa;
+  --color-gray-200: #939393;
+  --color-gray-300: #8d8d8d;
+  --color-gray-400: #828282;
+  --color-gray-500: #818181;
+  --color-gray-600: #2c2c2c;
+  --color-gray-700: #222;
+  --color-gray-800: #1b1b1b;
+  --color-gray-900: #161616;
+  --color-gray-1000: #131313;
+  --color-gray-1100: rgba(255, 255, 255, 0.01);
+  --color-gainsboro-100: #e3e3e3;
+  --color-gainsboro-200: #e1e1e1;
+  --color-gainsboro-300: #dbdbdb;
+  --color-gainsboro-400: #d9d9d9;
+  --color-blueviolet: #8758ff;
+  --color-darkslategray-100: #313131;
+  --color-darkslategray-200: #303030;
+  --color-darkslategray-300: #2f2f2f;
+  --color-whitesmoke-100: #efefef;
+  --color-whitesmoke-200: #ededed;
+  --color-whitesmoke-300: #eaeaea;
+  --color-lightgreen: #6ece6c;
+  --color-silver: #bebebe;
+  --color-darkgray: #a0a0a0;
+  --color-white: #fff;
+  --color-ghostwhite: #fef7ff;
+
+  /* Gaps */
+  --gap-mid: 17px;
+  --gap-xl: 20px;
+  --gap-23xl: 42px;
+  --gap-12xl: 31px;
+  --gap-47xl: 66px;
+  --gap-5xl: 24px;
+  --gap-7xs: 6px;
+  --gap-11xs: 2px;
+  --gap-xs: 12px;
+
+  /* Paddings */
+  --padding-lg-5: 18.5px;
+  --padding-base: 16px;
+  --padding-10xs: 3px;
+  --padding-5xl: 24px;
+  --padding-3xl: 22px;
+  --padding-xl: 20px;
+  --padding-97xl: 116px;
+  --padding-mid: 17px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-11xl: 30px;
+  --br-3xs: 10px;
+  --br-4xl: 23px;
+
+  /* Effects */
+  --style-one: 0px 20px 50px rgba(0, 0, 0, 0.06);
+}

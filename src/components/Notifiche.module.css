@@ -1,0 +1,46 @@
+.numberChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-blueviolet);
+}
+.div,
+.number {
+  position: absolute;
+  top: 21.88%;
+  left: 40.91%;
+}
+.number {
+  height: 63.75%;
+  width: 68.75%;
+  top: 0;
+  right: 0;
+  bottom: 36.25%;
+  left: 31.25%;
+}
+.vuesaxoutlinenotificationIcon {
+  position: absolute;
+  height: 59.76%;
+  width: 62.5%;
+  top: 40.24%;
+  right: 37.5%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.notifiche {
+  width: 48px;
+  height: 50.2px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-whitesmoke-300);
+  font-family: var(--font-poppins);
+}

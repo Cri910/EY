@@ -1,0 +1,43 @@
+.seguiLeNostre {
+  margin: 0;
+}
+.seguiLeNostreContainer {
+  position: relative;
+  font-weight: 500;
+}
+.frame {
+  width: 107px;
+  height: 93.3px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-12xl);
+  position: undefined;
+  margin-top: 14px;
+}
+.vuesaxlinearcloseSquareIcon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.socialMenu {
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-700);
+  width: 229px;
+  height: 177px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-lg-5) 16.0146484375px;
+  box-sizing: border-box;
+  gap: var(--gap-23xl);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gainsboro-400);
+  font-family: var(--font-poppins);
+}
