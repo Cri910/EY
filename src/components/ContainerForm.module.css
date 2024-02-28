@@ -1,0 +1,93 @@
+.vuesaxlineardiamondsIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.collezioni {
+  position: relative;
+  font-weight: 500;
+}
+.vuesaxlineardiamondsParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.vuesaxlinearwalletIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.wallet {
+  position: relative;
+  font-weight: 500;
+}
+.vuesaxlinearwalletParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.vuesaxoutlinemessageIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.messaggi {
+  position: absolute;
+  top: 0;
+  left: 41px;
+  font-weight: 500;
+}
+.vuesaxoutlinemessageParent,
+.vuesaxoutlinesetting2Icon {
+  width: 119px;
+  position: relative;
+  height: 24px;
+}
+.vuesaxoutlinesetting2Icon {
+  width: 24px;
+}
+.impostazioni {
+  position: relative;
+  font-weight: 500;
+}
+.vuesaxoutlinesetting2Parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.vuesaxoutlineinfoCircleIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.aiuto {
+  position: relative;
+  font-weight: 500;
+}
+.frameParent,
+.vuesaxoutlineinfoCircleParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.frameParent {
+  position: absolute;
+  top: 118px;
+  left: 9.5px;
+  flex-direction: column;
+  gap: 47px 0;
+  text-align: left;
+  font-size: var(--regular-16-24-size);
+  color: var(--color-dimgray-500);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,214 @@
+.frameChild,
+.rectangle151 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangle151 {
+  width: 352px;
+  height: 348px;
+  object-fit: cover;
+}
+.frameChild {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-1500);
+  backdrop-filter: blur(32px);
+  width: 135px;
+  height: 38px;
+}
+.h22m {
+  position: absolute;
+  top: 12px;
+  left: 40px;
+  font-weight: 500;
+}
+.rectangleParent,
+.vuesaxboldclockIcon {
+  position: absolute;
+  top: 9px;
+  left: 9px;
+  width: 21px;
+  height: 21px;
+}
+.rectangleParent {
+  top: 354px;
+  left: 108px;
+  width: 135px;
+  height: 38px;
+}
+.card2Child {
+  top: 269px;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+  background-color: var(--color-gray-1500);
+  backdrop-filter: blur(32px);
+  width: 352px;
+  height: 77px;
+  display: none;
+}
+.card2Child,
+.dModel11,
+.soroushnrz7 {
+  position: absolute;
+  left: 0;
+}
+.dModel11 {
+  top: 0;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 136px;
+  height: 43px;
+}
+.soroushnrz7 {
+  top: 25px;
+  font-size: var(--regular-12-16-size);
+  font-weight: 500;
+  color: var(--color-gainsboro-200);
+}
+.dModel11Parent {
+  position: absolute;
+  top: 286px;
+  left: 34px;
+  width: 136px;
+  height: 43px;
+  display: none;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke-400);
+}
+.card2Item {
+  position: absolute;
+  top: 352px;
+  left: 276px;
+  width: 45px;
+  height: 45px;
+}
+.frameInner,
+.frameItem {
+  position: absolute;
+  background-color: var(--color-gray-1500);
+  backdrop-filter: blur(32px);
+}
+.frameItem {
+  height: 100%;
+  width: 100%;
+  top: -8.05%;
+  right: 1.14%;
+  bottom: 8.05%;
+  left: -1.14%;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+}
+.frameInner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 135px;
+  height: 38px;
+}
+.h22m1 {
+  position: absolute;
+  top: 12px;
+  left: 40px;
+  font-weight: 500;
+}
+.vuesaxboldclockIcon1 {
+  position: absolute;
+  top: 9px;
+  left: 9px;
+  width: 21px;
+  height: 21px;
+}
+.rectangleContainer {
+  position: absolute;
+  height: 49.35%;
+  width: 38.35%;
+  top: 25.32%;
+  right: 0.57%;
+  bottom: 25.32%;
+  left: 61.08%;
+}
+.card2Inner,
+.rectangleDiv,
+.rectangleGroup {
+  position: absolute;
+  top: 265.5px;
+  left: 4px;
+  width: 352px;
+  height: 77px;
+}
+.card2Inner,
+.rectangleDiv {
+  top: 269.5px;
+  left: 0;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+  background-color: var(--color-gray-1500);
+  backdrop-filter: blur(32px);
+}
+.rectangleDiv {
+  top: 0;
+  border-radius: var(--br-3xs);
+  width: 135px;
+  height: 38px;
+}
+.h22m2 {
+  position: absolute;
+  top: 12px;
+  left: 40px;
+  font-weight: 500;
+}
+.frameDiv,
+.vuesaxboldclockIcon2 {
+  position: absolute;
+  top: 9px;
+  left: 9px;
+  width: 21px;
+  height: 21px;
+}
+.frameDiv {
+  height: 10.98%;
+  width: 38.35%;
+  top: 82.66%;
+  right: 2.27%;
+  bottom: 6.36%;
+  left: 59.38%;
+}
+.lionelMessi {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 196.1px;
+  height: 43px;
+}
+.soroushnrz71 {
+  position: absolute;
+  top: 25px;
+  left: -2px;
+  font-size: var(--regular-12-16-size);
+  font-weight: 500;
+  color: var(--color-gainsboro-200);
+}
+.card2,
+.lionelMessiParent {
+  position: absolute;
+  top: 286px;
+  left: 20.3px;
+  width: 225px;
+  height: 43px;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke-400);
+}
+.card2 {
+  top: 110px;
+  left: 396px;
+  border-radius: var(--br-11xl);
+  background-color: var(--white);
+  width: 352px;
+  height: 346px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--regular-12-16-size);
+  color: var(--color-gainsboro-200);
+  font-family: var(--font-poppins);
+}

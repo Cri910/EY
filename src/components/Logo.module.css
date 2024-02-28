@@ -1,0 +1,39 @@
+.stemmaUs1Icon {
+  height: 56.3px;
+  width: 56.3px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.alessandriaClub {
+  margin: 0;
+}
+.nftMarketplace {
+  margin: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-400);
+}
+.alessandriaClubNftContainer {
+  position: relative;
+}
+.logo,
+.walletComponent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.walletComponent {
+  justify-content: flex-end;
+  padding: 0 0 0 var(--padding-10xl);
+  margin-left: -14px;
+}
+.logo {
+  flex: 1;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-whitesmoke-400);
+  font-family: var(--font-poppins);
+}

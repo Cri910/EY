@@ -1,0 +1,176 @@
+.logoAlessandriaIcon {
+  width: 56.3px;
+  position: relative;
+  height: 56.3px;
+  object-fit: cover;
+}
+.alessandriaClub {
+  margin: 0;
+}
+.nftMarketplace {
+  margin: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-400);
+}
+.alessandriaClubNftContainer {
+  position: relative;
+}
+.alessandriaClubNftMarketplaWrapper,
+.frame1 {
+  width: 184px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  margin-left: -37px;
+}
+.frame1 {
+  width: 202.3px;
+  height: 56.3px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  position: undefined;
+  margin-left: 9px;
+}
+.frame5,
+.menuItemSelectedParent {
+  width: 285px;
+  display: flex;
+  flex-direction: column;
+}
+.menuItemSelectedParent {
+  height: 542.9px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25px 0;
+}
+.frame5 {
+  position: absolute;
+  top: -9.3px;
+  left: 6.8px;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.menuSettings {
+  width: 343px;
+  position: relative;
+  height: 505px;
+  overflow: hidden;
+  flex-shrink: 0;
+  margin-top: -11px;
+}
+.frame4 {
+  height: 558.5px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame2,
+.frame3,
+.frame4 {
+  width: 343px;
+  flex-shrink: 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame3 {
+  height: 734px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame2 {
+  height: 819.2px;
+  gap: 61px 0;
+}
+.frame,
+.frame11,
+.frame12,
+.frame2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame {
+  position: absolute;
+  top: 0;
+  left: -1.9px;
+  background-color: var(--color-gray-1100);
+  width: 401.8px;
+  height: 1117px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 62.874755859375px 0.37841796875px 62.874755859375px 58.37841796875px;
+  box-sizing: border-box;
+  gap: 84px 0;
+}
+.frame11,
+.frame12 {
+  width: 652px;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame11 {
+  position: absolute;
+  top: -12.8px;
+  left: 0;
+  height: 371.9px;
+}
+.frame10 {
+  align-self: stretch;
+  position: relative;
+  height: 363px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame9 {
+  position: absolute;
+  top: 512px;
+  left: -8px;
+  width: 1304px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame7,
+.frame8 {
+  position: absolute;
+  width: 1296px;
+}
+.frame8 {
+  top: 126px;
+  left: 0;
+  height: 899px;
+  overflow: hidden;
+}
+.frame7 {
+  top: 71px;
+  left: 19px;
+  height: 1021px;
+}
+.frame6,
+.homeLogin {
+  height: 1117px;
+  overflow: hidden;
+}
+.frame6 {
+  position: absolute;
+  top: 0;
+  left: 428px;
+  width: 1281px;
+}
+.homeLogin {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-whitesmoke-400);
+  font-family: var(--font-poppins);
+}

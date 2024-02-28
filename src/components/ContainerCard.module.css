@@ -1,0 +1,21 @@
+.pagineSocial,
+.seguiLeNostre {
+  margin: 0;
+}
+.seguiLeNostreContainer {
+  position: relative;
+  font-weight: 500;
+}
+.frame {
+  gap: 31px 0;
+  position: undefined;
+  margin-top: 14px;
+  width: 123.5px;
+  height: 107px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}

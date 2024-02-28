@@ -1,0 +1,207 @@
+.recommendedNftsChild {
+  position: absolute;
+  height: 91.8%;
+  width: 100%;
+  top: 8.16%;
+  right: 0;
+  bottom: 0.04%;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  box-shadow: var(--style-one);
+}
+.nftBuyChild,
+.nftBuyItem {
+  position: absolute;
+  height: 57.48%;
+  width: 48.16%;
+  top: 0;
+  right: 5.3%;
+  bottom: 42.52%;
+  left: 46.53%;
+  border-radius: 50%;
+  background-color: var(--color-skyblue-100);
+  filter: blur(160px);
+}
+.nftBuyItem {
+  height: 72.2%;
+  width: 59.6%;
+  top: 27.85%;
+  right: 5.27%;
+  bottom: -0.05%;
+  left: 35.13%;
+  background-color: var(--color-blueviolet-200);
+  filter: blur(120px);
+}
+.lucaLiverani,
+.nft {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.nft {
+  height: 50.18%;
+  width: 54.86%;
+  top: 0;
+  font-weight: 800;
+}
+.lucaLiverani {
+  height: 33.45%;
+  width: 100%;
+  top: 66.55%;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue-200);
+}
+.image48Icon,
+.nftParent {
+  position: absolute;
+  height: 25.87%;
+  width: 46.98%;
+  top: 24.93%;
+  right: 53.02%;
+  bottom: 49.2%;
+  left: 0;
+}
+.image48Icon {
+  height: 85.75%;
+  width: 42.99%;
+  top: 0.33%;
+  right: 0;
+  bottom: 13.92%;
+  left: 57.01%;
+  border-radius: var(--br-xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.btc,
+.div {
+  position: absolute;
+  height: 48.16%;
+  width: 57.63%;
+  top: 0;
+  left: 0;
+  font-weight: 800;
+  display: inline-block;
+}
+.btc {
+  top: 51.84%;
+  left: 2.22%;
+  color: var(--color-mediumaquamarine);
+}
+.groupChild {
+  position: absolute;
+  height: 74.56%;
+  width: 44.76%;
+  top: 7.77%;
+  right: 0;
+  bottom: 17.67%;
+  left: 55.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.parent {
+  position: absolute;
+  height: 24.22%;
+  width: 37.46%;
+  top: 60.96%;
+  right: 61.61%;
+  bottom: 14.82%;
+  left: 0.93%;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue-200);
+}
+.buyChild,
+.nftBuy {
+  position: absolute;
+  height: 78.89%;
+  width: 86.8%;
+  top: 0;
+  right: 7.04%;
+  bottom: 21.11%;
+  left: 6.15%;
+}
+.buyChild {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background: linear-gradient(180deg, #6bb8ff, #6e1fd2);
+}
+.acquista {
+  position: absolute;
+  height: 44.44%;
+  width: 58%;
+  top: 13.16%;
+  left: 18.42%;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.bidChild,
+.buy {
+  position: absolute;
+  height: 94.74%;
+  width: 46.82%;
+  top: 5.54%;
+  right: 0;
+  bottom: -0.28%;
+  left: 53.18%;
+}
+.bidChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background: linear-gradient(
+    143.41deg,
+    rgba(255, 255, 255, 0.29),
+    rgba(144, 57, 198, 0.31)
+  );
+  border: 1px solid var(--color-darkslateblue-100);
+  box-sizing: border-box;
+}
+.offri {
+  position: absolute;
+  height: 44.6%;
+  width: 42.38%;
+  top: 23.27%;
+  left: 32.27%;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.bid,
+.buttonsBuyBid {
+  position: absolute;
+  height: 100%;
+  width: 44.85%;
+  top: 0;
+  right: 55.15%;
+  bottom: 0;
+  left: 0;
+  color: var(--color-darkslateblue-200);
+}
+.buttonsBuyBid {
+  height: 13.4%;
+  width: 75.85%;
+  top: 76.07%;
+  right: 13.5%;
+  bottom: 10.54%;
+  left: 10.65%;
+  font-size: var(--font-size-mid);
+  color: var(--white);
+}
+.recommendedNfts {
+  width: 360.7px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 269.5px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-mediumpurple);
+  font-family: var(--paragraph-text);
+}

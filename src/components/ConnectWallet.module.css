@@ -1,0 +1,110 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  box-shadow: var(--style-one);
+  width: 501px;
+  height: 357px;
+}
+.titleConnect {
+  position: absolute;
+  top: 27px;
+  left: 32.3px;
+  font-weight: 600;
+}
+.arrowDownIcon {
+  position: absolute;
+  top: 86.1px;
+  left: 342px;
+  width: 47px;
+  height: 47px;
+}
+.buttonCreaWalletChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-1100);
+  width: 437px;
+  height: 61px;
+}
+.creaWallet,
+.div {
+  position: absolute;
+  top: 20px;
+  left: 187px;
+  font-weight: 500;
+}
+.div {
+  top: 1px;
+  left: 5px;
+}
+.groupChild,
+.parent {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.parent {
+  top: 21px;
+  left: 159px;
+  font-size: var(--regular-12-16-size);
+  color: var(--color-gainsboro-300);
+}
+.buttonCreaWallet {
+  position: absolute;
+  top: 274px;
+  left: 30px;
+  width: 437px;
+  height: 61px;
+  font-size: var(--font-size-sm);
+  color: var(--color-whitesmoke-200);
+}
+.titleFont {
+  position: absolute;
+  top: 16.5px;
+  left: 31.4px;
+  line-height: 44.81px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 288.2px;
+  height: 29.9px;
+}
+.walletConnectChild {
+  position: absolute;
+  top: 19.8px;
+  right: 40.7px;
+  width: 40px;
+  height: 25.3px;
+}
+.walletConnect {
+  position: absolute;
+  top: 172px;
+  left: 30px;
+  border-radius: var(--br-xs-2);
+  background-color: var(--controls-neutral-control-color-40);
+  box-shadow: 0 1.9px 3.73px rgba(0, 0, 0, 0.05);
+  border: 1.9px solid var(--controls-neutral-control-color-70);
+  box-sizing: border-box;
+  width: 289px;
+  height: 65px;
+  color: var(--controls-neutral-control-layer-color-100);
+}
+.connectWallet {
+  width: 501px;
+  height: 357px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-300);
+  font-family: var(--font-poppins);
+}

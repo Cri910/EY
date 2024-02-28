@@ -1,0 +1,165 @@
+.cardsChild {
+  position: absolute;
+  top: 100px;
+  left: 533.1px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(
+    143.41deg,
+    rgba(255, 255, 255, 0.14),
+    rgba(144, 57, 198, 0.16)
+  );
+  backdrop-filter: blur(4px);
+  border: 2px solid var(--color-darkslateblue-100);
+  box-sizing: border-box;
+  width: 379.9px;
+  height: 759px;
+}
+.cardsInner,
+.cardsItem {
+  position: absolute;
+  top: 551.1px;
+  left: 680.9px;
+  border-radius: 50%;
+  background-color: var(--color-darkviolet);
+  filter: blur(160px);
+  width: 231.9px;
+  height: 192.5px;
+}
+.cardsInner {
+  top: 143.3px;
+  left: 580.9px;
+  background-color: var(--color-skyblue-200);
+  width: 263.1px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 577.2px;
+  left: 534.7px;
+  border-radius: var(--br-xl);
+  width: 378.1px;
+  height: 281.8px;
+}
+.lionelMessi {
+  position: absolute;
+  top: 600.2px;
+  left: 558.1px;
+  display: inline-block;
+  width: 178.5px;
+  height: 36.7px;
+}
+.artistChild,
+.byMikeJones {
+  position: absolute;
+  top: 1.9px;
+  left: 158.6px;
+  width: 25px;
+  height: 25px;
+}
+.byMikeJones {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 171.5px;
+  height: 22.2px;
+}
+.artist {
+  top: 647.4px;
+  left: 558.1px;
+  width: 183.6px;
+  height: 26.9px;
+  font-size: var(--font-size-5xl);
+}
+.artist,
+.k,
+.likesIcon {
+  position: absolute;
+}
+.k {
+  top: 647.4px;
+  left: 821px;
+  font-size: var(--font-size-xl);
+  text-align: right;
+  display: inline-block;
+  width: 58.4px;
+  height: 18.3px;
+}
+.likesIcon {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  left: 0;
+  top: -3px;
+  transform: scale(2.413);
+}
+.wrapperLikes {
+  position: absolute;
+  top: 600.2px;
+  left: 839.7px;
+  width: 28.3px;
+  height: 30.4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image18Icon,
+.image18Wrapper {
+  position: absolute;
+  width: 340.4px;
+  height: 311.7px;
+}
+.image18Icon {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.image18Wrapper {
+  top: 157px;
+  left: 551.1px;
+}
+.ellipseDiv {
+  top: 450.8px;
+  left: 625.8px;
+  background-color: var(--color-darkslateblue-300);
+  filter: blur(60px);
+  width: 189.4px;
+  height: 40.4px;
+}
+.cardsChild1,
+.cardsChild2,
+.ellipseDiv {
+  position: absolute;
+  border-radius: 50%;
+}
+.cardsChild1 {
+  top: 463.7px;
+  left: 686.1px;
+  background-color: var(--color-darkslateblue-300);
+  filter: blur(30px);
+  width: 68.7px;
+  height: 14.6px;
+}
+.cardsChild2 {
+  top: 429.3px;
+  left: 566.9px;
+  border: 1px solid var(--color-plum-200);
+  box-sizing: border-box;
+  width: 312.3px;
+  height: 94.2px;
+}
+.rotationModeIcon {
+  position: absolute;
+  top: 506.9px;
+  left: 703.8px;
+  width: 35.1px;
+  height: 32.2px;
+}
+.cards {
+  width: 995px;
+  border-radius: var(--br-11xs);
+  height: 954px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--white);
+  font-family: var(--paragraph-text);
+}

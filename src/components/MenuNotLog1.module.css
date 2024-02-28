@@ -1,0 +1,215 @@
+.home,
+.vuesaxboldhomeIcon {
+  height: 24px;
+  position: relative;
+}
+.vuesaxboldhomeIcon {
+  width: 24px;
+  min-height: 24px;
+}
+.home {
+  width: 48px;
+  border: 0;
+  outline: 0;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  font-size: var(--regular-16-24-size);
+  background-color: transparent;
+  color: var(--white);
+  text-align: left;
+  display: inline-block;
+}
+.filterComponent {
+  width: 222px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-gray-1000);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-mid);
+  box-sizing: border-box;
+  gap: 0 16px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+}
+.vuesaxlineardiamondsIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.collezioni {
+  position: relative;
+  font-weight: 500;
+}
+.ipiApprezzatiText {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 0 16px;
+}
+.vuesaxlinearwalletIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.wallet {
+  position: relative;
+  font-weight: 500;
+}
+.connectWalletFrame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 0 16px;
+}
+.vuesaxoutlinesetting2Icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.contatti {
+  position: relative;
+  font-weight: 500;
+}
+.menuvuesax {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 0 16px;
+}
+.vuesaxoutlineinfoCircleIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.aiuto {
+  position: relative;
+  font-weight: 500;
+}
+.clippathgroup,
+.vuesaxlinearsearchnormalInsta {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.clippathgroup {
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 0 16px;
+}
+.vuesaxlinearsearchnormalInsta {
+  flex-direction: column;
+  gap: 47px 0;
+}
+.rectangleframe {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0.3px;
+  bottom: 0;
+  left: -0.3px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-royalblue);
+}
+.accedi {
+  position: relative;
+  font-size: var(--regular-12-16-size);
+  font-family: var(--font-poppins);
+  color: var(--color-whitesmoke-400);
+  text-align: left;
+  z-index: 1;
+}
+.accediButton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-6xs) var(--padding-xs) var(--padding-6xs)
+    var(--padding-3xs);
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.vectorthree {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-48xl) var(--padding-12xs) 0 0;
+}
+.loginRounded,
+.mostraTuttiText {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: row;
+}
+.mostraTuttiText {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.loginRounded {
+  padding: 0 var(--padding-12xs) 0 var(--padding-mid);
+}
+.frameDiscoverPopularNFT,
+.loginRounded,
+.menuNotLog,
+.socialmediaicons {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameDiscoverPopularNFT {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  gap: 40px 0;
+}
+.menuNotLog,
+.socialmediaicons {
+  flex-direction: row;
+  padding: 0 var(--padding-base) 0 var(--padding-mini);
+}
+.menuNotLog {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-15xl) 0 var(--padding-33xl);
+  gap: 65px 0;
+  z-index: 1;
+  text-align: left;
+  font-size: var(--regular-16-24-size);
+  color: var(--color-dimgray-500);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 825px) {
+  .menuNotLog {
+    padding-top: var(--padding-3xl);
+    padding-bottom: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frameDiscoverPopularNFT {
+    gap: 40px 0;
+  }
+  .menuNotLog {
+    gap: 65px 0;
+  }
+}

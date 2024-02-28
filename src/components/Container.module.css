@@ -1,0 +1,31 @@
+.vuesaxoutlinemessageIcon,
+.vuesaxoutlinesetting2Icon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  display: none;
+}
+.messaggi {
+  width: 104px;
+  position: relative;
+  font-weight: 500;
+  display: none;
+}
+.menuItemSelected {
+  width: 285px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-gray-1000);
+  height: 65.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-99xl) var(--padding-xl)
+    var(--padding-mid);
+  box-sizing: border-box;
+  gap: 0 17px;
+  text-align: left;
+  font-size: var(--regular-16-24-size);
+  color: var(--white);
+  font-family: var(--font-poppins);
+}

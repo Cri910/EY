@@ -1,0 +1,33 @@
+.barraDiRicercaChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  box-shadow: var(--style-one);
+  width: 409px;
+  height: 74px;
+}
+.cerca {
+  position: absolute;
+  top: 25px;
+  left: 93.5px;
+}
+.barraDiRicerca,
+.vuesaxlinearsearchNormalIcon {
+  position: absolute;
+  top: 25px;
+  left: 45.5px;
+  width: 24px;
+  height: 24px;
+}
+.barraDiRicerca {
+  top: 4px;
+  left: 374px;
+  width: 409px;
+  height: 74px;
+  text-align: left;
+  font-size: var(--regular-16-24-size);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-poppins);
+}

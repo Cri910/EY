@@ -1,0 +1,30 @@
+.bestSellersDel,
+.mostraTutti {
+  position: absolute;
+  top: 0;
+  left: 16px;
+}
+.mostraTutti {
+  top: 11px;
+  left: 414.3px;
+  font-size: var(--regular-16-24-size);
+  color: var(--color-dimgray-100);
+  display: inline-block;
+  width: 91px;
+  height: 23.8px;
+}
+.vuesaxlineararrowDownIcon {
+  position: absolute;
+  top: 13px;
+  left: 519px;
+  width: 24px;
+  height: 24px;
+}
+.bestSellers {
+  width: 1177.5px;
+  height: 456px;
+  text-align: left;
+  font-size: var(--font-size-14xl);
+  color: var(--color-darkslategray-300);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,54 @@
+.menuFrameChild {
+  width: 400px;
+  height: 1117px;
+  position: relative;
+  background-color: var(--color-gray-1100);
+  display: none;
+  max-width: 100%;
+}
+.accediButton,
+.homeLogo,
+.menuFrame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xl) 0 var(--padding-lg);
+}
+.accediButton,
+.menuFrame {
+  height: 522px;
+  flex-direction: column;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  font-size: var(--regular-16-24-size);
+  color: var(--color-dimgray-500);
+}
+.menuFrame {
+  height: 1127px;
+  background-color: var(--color-gray-1100);
+  align-items: center;
+  padding: var(--padding-67xl) var(--padding-45xl) var(--padding-347xl)
+    var(--padding-44xl);
+  gap: 97px 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-whitesmoke-400);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 1250px) {
+  .menuFrame {
+    padding-top: var(--padding-37xl);
+    padding-bottom: var(--padding-219xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .menuFrame {
+    gap: 97px 0;
+    padding: var(--padding-17xl) var(--padding-xl) var(--padding-136xl);
+    box-sizing: border-box;
+  }
+}

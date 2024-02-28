@@ -1,0 +1,88 @@
+.rectangle151 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 352px;
+  height: 348px;
+  object-fit: cover;
+}
+.card3Child,
+.frameChild {
+  position: absolute;
+  top: 269px;
+  left: 0;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+  background-color: var(--color-gray-1500);
+  backdrop-filter: blur(32px);
+  width: 352px;
+  height: 77px;
+}
+.frameChild {
+  top: 0;
+  border-radius: var(--br-3xs);
+  width: 135px;
+  height: 38px;
+}
+.h22m {
+  position: absolute;
+  top: 12px;
+  left: 40px;
+  font-weight: 500;
+}
+.rectangleParent,
+.vuesaxboldclockIcon {
+  position: absolute;
+  top: 9px;
+  left: 9px;
+  width: 21px;
+  height: 21px;
+}
+.rectangleParent {
+  height: 10.98%;
+  width: 38.35%;
+  top: 81.5%;
+  right: 1.85%;
+  bottom: 7.51%;
+  left: 59.8%;
+}
+.loremIpsum {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 196.1px;
+  height: 43px;
+}
+.soroushnrz7 {
+  position: absolute;
+  top: 25px;
+  left: -2px;
+  font-size: var(--regular-12-16-size);
+  font-weight: 500;
+  color: var(--color-gainsboro-200);
+}
+.card3,
+.loremIpsumParent {
+  position: absolute;
+  top: 289px;
+  left: 24.7px;
+  width: 225px;
+  height: 43px;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke-400);
+}
+.card3 {
+  top: 110px;
+  left: 792px;
+  border-radius: var(--br-11xl);
+  background-color: var(--white);
+  width: 352px;
+  height: 346px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--regular-12-16-size);
+  color: var(--color-gainsboro-200);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,23 @@
+.clipPathGroup,
+.vectorIcon,
+.vectorIcon1,
+.vectorIcon2 {
+  width: 17.3px;
+  position: relative;
+  height: 17.3px;
+}
+.vectorIcon1,
+.vectorIcon2 {
+  width: 9px;
+}
+.vectorIcon2 {
+  width: 19.9px;
+  height: 20px;
+}
+.socialIcons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 20px;
+}

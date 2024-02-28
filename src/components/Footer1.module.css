@@ -1,0 +1,181 @@
+.footerChild {
+  position: absolute;
+  height: 90.04%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 9.96%;
+  left: 0;
+  background-color: var(--color-gray-1100);
+}
+.categorie {
+  position: relative;
+  font-weight: 600;
+}
+.portieri {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.attaccanti,
+.centrocampisti {
+  position: absolute;
+  top: 22.09%;
+  left: 0;
+}
+.centrocampisti {
+  top: 44.12%;
+}
+.difensori,
+.topDellaSettimana {
+  position: absolute;
+  top: 66.22%;
+  left: 0;
+}
+.topDellaSettimana {
+  top: 88.31%;
+}
+.portieriParent {
+  width: 135px;
+  position: relative;
+  height: 162.5px;
+  font-size: var(--regular-16-24-size);
+  color: var(--alessandria-primary);
+  font-family: var(--paragraph-text);
+}
+.categorieParent,
+.ilMioAccount {
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-poppins);
+  color: var(--white);
+}
+.categorieParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px 0;
+}
+.ilMioAccount {
+  font-weight: 600;
+}
+.customerAnalytics,
+.dashboard,
+.guadagnoMensile,
+.ilMioAccount,
+.ordini,
+.preferiti {
+  position: relative;
+}
+.ilMioAccountParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px 0;
+}
+.pagine {
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--white);
+}
+.collezioni,
+.home,
+.impostazioni,
+.messaggi,
+.pagine,
+.wallet {
+  position: relative;
+}
+.menuFooter,
+.pagineParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px 0;
+}
+.menuFooter {
+  position: absolute;
+  height: 43.79%;
+  width: 38.43%;
+  top: 20.83%;
+  right: 11.57%;
+  bottom: 35.38%;
+  left: 50%;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 0 140px;
+}
+.hekto {
+  position: absolute;
+  height: 7.97%;
+  width: 5.96%;
+  top: 19.92%;
+  left: 17.74%;
+  font-size: var(--font-size-19xl);
+  font-family: var(--font-josefin-sans);
+  color: var(--color-gray-1100);
+  display: none;
+}
+.contattaci {
+  position: absolute;
+  height: 5.03%;
+  width: 4.98%;
+  top: 61.12%;
+  left: 5.29%;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+  display: inline-block;
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-blueviolet-100);
+}
+.moreWebDesign {
+  position: absolute;
+  height: 39.92%;
+  width: 15.68%;
+  top: 20.79%;
+  left: 5.29%;
+  font-weight: 600;
+  display: inline-block;
+}
+.footerInner,
+.rectangleParent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.footerInner {
+  height: 9.96%;
+  top: 90.04%;
+  color: var(--color-whitesmoke-400);
+}
+.logoAlessandriaIcon {
+  position: absolute;
+  top: 69.1px;
+  left: 91.4px;
+  width: 88px;
+  height: 87.9px;
+  object-fit: cover;
+}
+.footer {
+  width: 1728px;
+  height: 483px;
+  text-align: left;
+  font-size: var(--regular-16-24-size);
+  color: var(--alessandria-primary);
+  font-family: var(--paragraph-text);
+}

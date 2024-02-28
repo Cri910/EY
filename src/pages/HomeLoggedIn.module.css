@@ -1,0 +1,870 @@
+.homeLoggedInChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-1100);
+  width: 400px;
+  height: 1117px;
+}
+.alessandriaClub {
+  margin: 0;
+}
+.nftMarketplace {
+  margin: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-400);
+}
+.alessandriaClubNftContainer {
+  position: absolute;
+  top: 0;
+  left: 59px;
+}
+.alessandriaClubNftMarketplaWrapper {
+  position: absolute;
+  top: 70px;
+  left: 79px;
+  width: 184px;
+  height: 47px;
+  font-size: var(--font-size-lg);
+  color: var(--color-whitesmoke-400);
+}
+.ellipseDiv,
+.homeLoggedInInner,
+.homeLoggedInItem {
+  position: absolute;
+  top: 88px;
+  left: 377px;
+  border-radius: 50%;
+  background-color: var(--color-dimgray-300);
+  width: 4px;
+  height: 4px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.ellipseDiv,
+.homeLoggedInInner {
+  top: 247px;
+  left: 1508px;
+  background-color: var(--color-silver-200);
+  width: 5px;
+  height: 5px;
+  transform: rotate(-90deg);
+}
+.ellipseDiv {
+  top: 254px;
+}
+.homeLoggedInChild1,
+.homeLoggedInChild2,
+.homeLoggedInChild3 {
+  position: absolute;
+  top: 94px;
+  left: 377px;
+  border-radius: 50%;
+  background-color: var(--color-dimgray-300);
+  width: 4px;
+  height: 4px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.homeLoggedInChild2,
+.homeLoggedInChild3 {
+  top: 247px;
+  left: 1501px;
+  background-color: var(--color-silver-200);
+  width: 5px;
+  height: 5px;
+  transform: rotate(-90deg);
+}
+.homeLoggedInChild3 {
+  top: 254px;
+}
+.homeLoggedInChild4,
+.homeLoggedInChild5,
+.homeLoggedInChild6 {
+  position: absolute;
+  top: 100px;
+  left: 377px;
+  border-radius: 50%;
+  background-color: var(--color-dimgray-300);
+  width: 4px;
+  height: 4px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.homeLoggedInChild5,
+.homeLoggedInChild6 {
+  top: 247px;
+  left: 1493px;
+  background-color: var(--color-silver-200);
+  width: 5px;
+  height: 5px;
+  transform: rotate(-90deg);
+}
+.homeLoggedInChild6 {
+  top: 254px;
+}
+.vuesaxboldhomeIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.home {
+  position: relative;
+  font-weight: 500;
+}
+.vuesaxboldhomeParent {
+  position: absolute;
+  top: 208px;
+  left: 75px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-gray-1000);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-97xl) var(--padding-xl)
+    var(--padding-mid);
+  gap: 0 17px;
+  font-size: var(--regular-16-24-size);
+  color: var(--white);
+}
+.vuesaxlineardiamondsIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.collezioni {
+  position: relative;
+  font-weight: 500;
+}
+.vuesaxlineardiamondsParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.vuesaxlinearwalletIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.wallet {
+  position: relative;
+  font-weight: 500;
+}
+.vuesaxlinearwalletParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.vuesaxoutlinesetting2Icon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.contatti {
+  position: relative;
+  font-weight: 500;
+}
+.vuesaxoutlinesetting2Parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.vuesaxoutlineinfoCircleIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.aiuto {
+  position: relative;
+  font-weight: 500;
+}
+.frameParent,
+.vuesaxoutlineinfoCircleParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.frameParent {
+  position: absolute;
+  top: 303px;
+  left: 92px;
+  flex-direction: column;
+  gap: 47px 0;
+  font-size: var(--regular-16-24-size);
+  color: var(--color-dimgray-500);
+}
+.rectangleDiv {
+  position: absolute;
+  top: 370px;
+  left: 283px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-royalblue);
+  width: 64px;
+  height: 32px;
+}
+.accedi {
+  position: absolute;
+  top: 377px;
+  left: 294px;
+  color: var(--color-whitesmoke-400);
+}
+.bestSellersDel,
+.mostraTutti {
+  position: absolute;
+  top: 217px;
+  left: 460px;
+  font-size: var(--font-size-14xl);
+  color: var(--color-darkslategray-300);
+}
+.mostraTutti {
+  top: 230px;
+  left: 864px;
+  font-size: var(--regular-16-24-size);
+  color: var(--color-dimgray-100);
+}
+.span {
+  color: var(--color-darkgray-100);
+}
+.new139 {
+  position: absolute;
+  top: 236px;
+  left: 1584px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+  color: var(--color-darkslategray-100);
+}
+.homeLoggedInChild7 {
+  position: absolute;
+  top: 60px;
+  left: 930px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  box-shadow: var(--style-one);
+  width: 409px;
+  height: 74px;
+}
+.cerca {
+  position: absolute;
+  top: 86px;
+  left: 996px;
+  font-size: var(--regular-16-24-size);
+  color: var(--color-dimgray-100);
+}
+.loginRoundedIcon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.login {
+  position: relative;
+  font-weight: 500;
+}
+.loginRoundedParent {
+  position: absolute;
+  top: 61px;
+  left: 1452.5px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  box-shadow: var(--style-one);
+  width: 134px;
+  height: 74px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) var(--padding-3xl);
+  box-sizing: border-box;
+  gap: 0 12px;
+  font-size: var(--regular-16-24-size);
+  color: var(--color-gray-700);
+}
+.vuesaxlineararrowDownIcon,
+.vuesaxlinearsearchNormalIcon {
+  position: absolute;
+  top: 230px;
+  left: 963px;
+  width: 24px;
+  height: 24px;
+}
+.vuesaxlinearsearchNormalIcon {
+  top: 85px;
+  left: 952px;
+}
+.homeLoggedInChild10,
+.homeLoggedInChild8,
+.homeLoggedInChild9 {
+  border: 1.5px solid var(--color-gray-1200);
+  width: 7px;
+  height: 7px;
+}
+.homeLoggedInChild8 {
+  position: absolute;
+  top: 239px;
+  left: 1529px;
+  box-sizing: border-box;
+}
+.homeLoggedInChild10,
+.homeLoggedInChild9 {
+  left: 1538px;
+}
+.homeLoggedInChild9 {
+  position: absolute;
+  top: 239px;
+  box-sizing: border-box;
+}
+.homeLoggedInChild10 {
+  top: 248px;
+}
+.homeLoggedInChild10,
+.homeLoggedInChild11,
+.lineDiv {
+  position: absolute;
+  box-sizing: border-box;
+}
+.homeLoggedInChild11 {
+  top: 248px;
+  left: 1529px;
+  border: 1.5px solid var(--color-gray-1200);
+  width: 7px;
+  height: 7px;
+}
+.lineDiv {
+  top: 260.5px;
+  left: 1529.5px;
+  border-top: 1px solid var(--color-blueviolet-100);
+  width: 15px;
+  height: 1px;
+}
+.homeLoggedInChild12,
+.homeLoggedInChild13 {
+  position: absolute;
+  top: 799px;
+  left: 458px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  box-shadow: var(--style-one);
+  width: 652px;
+  height: 277px;
+}
+.homeLoggedInChild13 {
+  top: 719px;
+  left: 1150px;
+  width: 501px;
+  height: 357px;
+}
+.span1 {
+  color: var(--color-silver-100);
+}
+.iPiApprezzatiContainer,
+.theGoldMind,
+.theGoldMind1,
+.theGoldMind2 {
+  position: absolute;
+  top: 733px;
+  left: 458px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  color: var(--color-darkslategray-300);
+}
+.theGoldMind,
+.theGoldMind1,
+.theGoldMind2 {
+  top: 830px;
+  left: 566px;
+  font-size: var(--font-size-lg);
+}
+.theGoldMind1,
+.theGoldMind2 {
+  top: 910px;
+}
+.theGoldMind2 {
+  top: 994px;
+}
+.minsonJolia,
+.vediTutti {
+  position: absolute;
+  top: 869px;
+  left: 566px;
+  font-weight: 500;
+}
+.vediTutti {
+  top: 748px;
+  left: 1025.5px;
+  font-size: var(--regular-16-24-size);
+  font-weight: 600;
+}
+.minsonJolia1,
+.minsonJolia2 {
+  position: absolute;
+  top: 949px;
+  left: 566px;
+  font-weight: 500;
+}
+.minsonJolia2 {
+  top: 1033px;
+}
+.eth,
+.eth1,
+.eth2,
+.price,
+.price1,
+.price2 {
+  position: absolute;
+  top: 835px;
+  left: 1008px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.eth,
+.eth1,
+.eth2,
+.price1,
+.price2 {
+  top: 915px;
+}
+.eth,
+.eth1,
+.eth2,
+.price2 {
+  top: 999px;
+}
+.eth,
+.eth1,
+.eth2 {
+  top: 866px;
+  font-weight: 600;
+  color: var(--color-darkslategray-200);
+}
+.eth1,
+.eth2 {
+  top: 946px;
+}
+.eth2 {
+  top: 1030px;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  top: 870px;
+  left: 692px;
+  color: var(--color-lightgreen);
+}
+.div1,
+.div2 {
+  top: 950px;
+}
+.div2 {
+  top: 1034px;
+}
+.vuesaxlinearethereumEthIcon {
+  position: absolute;
+  top: 864px;
+  left: 1062px;
+  width: 24px;
+  height: 24px;
+}
+.vuesaxlinearethereumEthIcon1,
+.vuesaxlinearethereumEthIcon2 {
+  position: absolute;
+  top: 944px;
+  left: 1062px;
+  width: 24px;
+  height: 24px;
+}
+.vuesaxlinearethereumEthIcon2 {
+  top: 1028px;
+}
+.homeLoggedInChild14,
+.homeLoggedInChild15,
+.rectangleIcon {
+  position: absolute;
+  top: 824px;
+  left: 482px;
+  border-radius: var(--br-xl);
+  width: 67px;
+  height: 67px;
+  object-fit: cover;
+}
+.homeLoggedInChild14,
+.homeLoggedInChild15 {
+  top: 904px;
+}
+.homeLoggedInChild15 {
+  top: 988px;
+}
+.vuesaxoutlinearrowUpIcon,
+.vuesaxoutlinearrowUpIcon1,
+.vuesaxoutlinearrowUpIcon2 {
+  position: absolute;
+  top: 861px;
+  left: 658px;
+  width: 33.6px;
+  height: 33.6px;
+  object-fit: contain;
+}
+.vuesaxoutlinearrowUpIcon1,
+.vuesaxoutlinearrowUpIcon2 {
+  top: 941px;
+}
+.vuesaxoutlinearrowUpIcon2 {
+  top: 1025px;
+}
+.homeLoggedInChild16 {
+  position: absolute;
+  top: 988px;
+  left: 459px;
+  background: linear-gradient(
+    180deg,
+    rgba(250, 250, 250, 0.76),
+    rgba(255, 255, 255, 0.76)
+  );
+  width: 649px;
+  height: 83px;
+}
+.connectWallet {
+  position: absolute;
+  top: 746px;
+  left: 1182.3px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-darkslategray-300);
+}
+.groupIcon {
+  position: absolute;
+  top: 805.1px;
+  left: 1492px;
+  width: 35px;
+  height: 35px;
+}
+.homeLoggedInChild17 {
+  position: absolute;
+  top: 993px;
+  left: 1180px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-1100);
+  width: 437px;
+  height: 61px;
+}
+.creaWallet,
+.div3 {
+  position: absolute;
+  font-weight: 500;
+}
+.creaWallet {
+  top: 1013px;
+  left: 1367px;
+  font-size: var(--font-size-sm);
+  color: var(--color-whitesmoke-200);
+}
+.div3 {
+  top: 1px;
+  left: 5px;
+}
+.groupChild,
+.parent {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.parent {
+  top: 1014px;
+  left: 1339px;
+  color: var(--color-gainsboro-300);
+}
+.homeLoggedInChild18 {
+  position: absolute;
+  top: 134px;
+  left: 370px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-400);
+  width: 60px;
+  height: 61px;
+}
+.menuIcon {
+  position: absolute;
+  top: 119px;
+  left: 385px;
+  width: 30px;
+  height: 90px;
+  object-fit: cover;
+}
+.nomeGiocatore,
+.rectangle151 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangle151 {
+  width: 352px;
+  height: 348px;
+  object-fit: cover;
+}
+.nomeGiocatore {
+  line-height: 22px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 196.1px;
+  height: 43px;
+}
+.soroushnrz7 {
+  position: absolute;
+  top: 25px;
+  left: -2px;
+  font-size: var(--regular-12-16-size);
+  font-weight: 500;
+  color: var(--color-gainsboro-200);
+}
+.card,
+.cardChild,
+.nomeGiocatoreParent {
+  position: absolute;
+  top: 286px;
+  left: 23px;
+  width: 225px;
+  height: 43px;
+}
+.card,
+.cardChild {
+  top: 352px;
+  left: 276px;
+  width: 45px;
+  height: 45px;
+}
+.card {
+  top: 327px;
+  left: 444px;
+  border-radius: var(--br-11xl);
+  background-color: var(--white);
+  width: 352px;
+  height: 346px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke-400);
+}
+.homeLoggedInChild19,
+.homeLoggedInChild20 {
+  position: absolute;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+  background-color: var(--color-gray-1500);
+  backdrop-filter: blur(32px);
+}
+.homeLoggedInChild19 {
+  height: 6.89%;
+  width: 20.37%;
+  top: 53.22%;
+  right: 30.53%;
+  bottom: 39.88%;
+  left: 49.1%;
+}
+.homeLoggedInChild20 {
+  top: 596.5px;
+  left: 840px;
+  width: 352px;
+  height: 77px;
+}
+.stemmaUs1Icon {
+  position: absolute;
+  top: 63.9px;
+  left: 63.7px;
+  width: 56.3px;
+  height: 56.3px;
+  object-fit: cover;
+}
+.titleFont {
+  position: absolute;
+  top: 16.5px;
+  left: 31.4px;
+  line-height: 44.81px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 288.2px;
+  height: 29.9px;
+}
+.metamaskChild {
+  position: absolute;
+  top: 19.8px;
+  right: 40.7px;
+  width: 40px;
+  height: 25.3px;
+}
+.metamask {
+  position: absolute;
+  top: 891px;
+  left: 1180px;
+  border-radius: var(--br-xs-2);
+  background-color: var(--controls-neutral-control-color-40);
+  box-shadow: 0 1.9px 3.73px rgba(0, 0, 0, 0.05);
+  border: 1.9px solid var(--controls-neutral-control-color-70);
+  box-sizing: border-box;
+  width: 289px;
+  height: 65px;
+  font-size: var(--font-size-xl);
+  color: var(--controls-neutral-control-layer-color-100);
+}
+.nomeGiocatore1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 22px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 196.1px;
+  height: 43px;
+}
+.soroushnrz71 {
+  position: absolute;
+  top: 25px;
+  left: -2px;
+  font-size: var(--regular-12-16-size);
+  font-weight: 500;
+  color: var(--color-gainsboro-200);
+}
+.nomeGiocatoreGroup {
+  position: absolute;
+  top: 613px;
+  left: 860.3px;
+  width: 225px;
+  height: 43px;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke-400);
+}
+.nomeGiocatore2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 22px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 196.1px;
+  height: 43px;
+}
+.soroushnrz72 {
+  position: absolute;
+  top: 25px;
+  left: -2px;
+  font-size: var(--regular-12-16-size);
+  font-weight: 500;
+  color: var(--color-gainsboro-200);
+}
+.nomeGiocatoreContainer {
+  position: absolute;
+  top: 616px;
+  left: 1260.7px;
+  width: 225px;
+  height: 43px;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke-400);
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-1500);
+  backdrop-filter: blur(32px);
+  width: 135px;
+  height: 38px;
+}
+.h22m {
+  position: absolute;
+  top: 12px;
+  left: 40px;
+  font-weight: 500;
+}
+.rectangleParent,
+.vuesaxboldclockIcon {
+  position: absolute;
+  top: 9px;
+  left: 9px;
+  width: 21px;
+  height: 21px;
+}
+.rectangleParent {
+  height: 3.4%;
+  width: 7.81%;
+  top: 55.6%;
+  right: 31.13%;
+  bottom: 41%;
+  left: 61.05%;
+  color: var(--color-gainsboro-200);
+}
+.frameItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-1500);
+  backdrop-filter: blur(32px);
+  width: 135px;
+  height: 38px;
+}
+.h22m1 {
+  position: absolute;
+  top: 12px;
+  left: 40px;
+  font-weight: 500;
+}
+.rectangleGroup,
+.vuesaxboldclockIcon1 {
+  position: absolute;
+  top: 9px;
+  left: 9px;
+  width: 21px;
+  height: 21px;
+}
+.rectangleGroup {
+  height: 3.4%;
+  width: 7.81%;
+  top: 55.6%;
+  right: 8.19%;
+  bottom: 41%;
+  left: 84%;
+  color: var(--color-gainsboro-200);
+}
+.homeLoggedIn,
+.homeLoggedInChild21 {
+  backdrop-filter: blur(4px);
+  height: 1117px;
+}
+.homeLoggedInChild21 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-1400);
+  width: 1728px;
+}
+.homeLoggedIn {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro-200);
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--regular-12-16-size);
+  color: var(--color-gray-500);
+  font-family: var(--font-poppins);
+}

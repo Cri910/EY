@@ -1,0 +1,132 @@
+.endsHigestBidChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--white);
+  width: 333.4px;
+  height: 149px;
+}
+.endsHigestBidItem {
+  position: absolute;
+  top: 7.6px;
+  left: 8.4px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--color-darkslateblue-100);
+  box-sizing: border-box;
+  width: 316.6px;
+  height: 133.8px;
+}
+.h30m29s {
+  top: 48.4px;
+  left: 25.3px;
+  font-size: var(--font-size-xl);
+  width: 127.5px;
+  height: 23.7px;
+}
+.eth,
+.finisceTra,
+.h30m29s,
+.offertaPiAlta {
+  position: absolute;
+  display: inline-block;
+}
+.eth {
+  top: 46.5px;
+  left: 216.9px;
+  font-size: var(--font-size-3xl);
+  font-weight: 800;
+  color: var(--color-mediumpurple);
+  width: 91.2px;
+  height: 27.5px;
+}
+.finisceTra,
+.offertaPiAlta {
+  top: 22.9px;
+  height: 15.3px;
+}
+.offertaPiAlta {
+  left: 184.2px;
+  text-align: right;
+  width: 123.9px;
+}
+.finisceTra {
+  left: 25.3px;
+  width: 84.2px;
+}
+.buyChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background: linear-gradient(180deg, #6bb8ff, #6e1fd2);
+  width: 125.2px;
+  height: 34.4px;
+}
+.acquista {
+  position: absolute;
+  top: 5px;
+  left: calc(50% - 38.3px);
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 72.7px;
+  height: 15.3px;
+}
+.bidChild,
+.buy {
+  position: absolute;
+  top: 1px;
+  left: 145.1px;
+  width: 125.2px;
+  height: 34.4px;
+}
+.bidChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background: linear-gradient(
+    143.41deg,
+    rgba(255, 255, 255, 0.29),
+    rgba(144, 57, 198, 0.31)
+  );
+  border: 1px solid var(--color-darkslateblue-100);
+  box-sizing: border-box;
+  width: 119.9px;
+  height: 36.4px;
+}
+.offri {
+  position: absolute;
+  top: 6.8px;
+  left: calc(50% - 27.45px);
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 50.9px;
+  height: 16.2px;
+}
+.bid,
+.buttonsBuyBid,
+.endsHigestBid {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 119.9px;
+  height: 36.4px;
+  color: var(--color-darkslateblue-200);
+}
+.buttonsBuyBid,
+.endsHigestBid {
+  top: 92.2px;
+  left: 30.4px;
+  width: 270.3px;
+  color: var(--white);
+}
+.endsHigestBid {
+  top: 696.6px;
+  left: 558.1px;
+  width: 333.4px;
+  height: 149px;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--paragraph-text);
+}

@@ -1,0 +1,186 @@
+.popupLogInChild {
+  position: absolute;
+  height: 97.99%;
+  width: 98.72%;
+  top: 2.01%;
+  right: 1.28%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-1100);
+  box-shadow: 0 4px 35px rgba(0, 0, 0, 0.08);
+}
+.noAccount {
+  margin: 0;
+}
+.registrati {
+  margin: 0;
+  color: var(--color-blueviolet-100);
+}
+.noAccountRegistratiContainer {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.noAccountRegistratiWrapper {
+  position: absolute;
+  height: 6.18%;
+  width: 15.75%;
+  top: 8.19%;
+  right: 9.16%;
+  bottom: 85.63%;
+  left: 75.09%;
+  color: var(--color-gray-300);
+}
+.login {
+  position: absolute;
+  height: 9.27%;
+  width: 24.73%;
+  top: 13.91%;
+  left: 8.06%;
+  font-size: var(--font-size-14xl);
+  font-weight: 600;
+  display: inline-block;
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-aliceblue);
+}
+.googleIcon {
+  position: absolute;
+  height: 47.27%;
+  width: 8.72%;
+  top: 27.27%;
+  right: 80.54%;
+  bottom: 25.45%;
+  left: 10.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.loginWithGoogle {
+  position: absolute;
+  height: 43.64%;
+  width: 51.34%;
+  top: 27.27%;
+  left: 26.51%;
+  display: inline-block;
+}
+.groupItem,
+.rectangleParent {
+  position: absolute;
+  height: 98.21%;
+  width: 66.08%;
+  top: 1.79%;
+  right: 33.92%;
+  bottom: 0;
+  left: 0;
+}
+.groupItem {
+  width: 13.3%;
+  right: 16.19%;
+  left: 70.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupInner,
+.groupParent {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.groupInner {
+  height: 98.21%;
+  width: 13.3%;
+  bottom: 1.79%;
+  left: 86.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupParent {
+  height: 100%;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+}
+.socialLogin {
+  position: absolute;
+  top: 176.5px;
+  left: 44px;
+  width: 451px;
+  height: 56px;
+  font-size: var(--regular-16-24-size);
+  color: var(--color-dodgerblue);
+}
+.passwordDimenticata {
+  position: absolute;
+  height: 3.09%;
+  width: 28.37%;
+  top: 75.27%;
+  left: 63.94%;
+  color: var(--color-blueviolet-100);
+  display: inline-block;
+}
+.rectangleDiv {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-blueviolet-100);
+  box-shadow: 0 4px 19px rgba(119, 147, 65, 0.3);
+}
+.accedi {
+  position: absolute;
+  height: 44.44%;
+  width: 12.42%;
+  top: 25.93%;
+  left: 44.01%;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangleGroup {
+  position: absolute;
+  height: 8.35%;
+  width: 82.6%;
+  top: 83.62%;
+  right: 9.34%;
+  bottom: 8.04%;
+  left: 8.06%;
+  font-size: var(--regular-16-24-size);
+}
+.iconsxCircle {
+  position: absolute;
+  height: 4.64%;
+  width: 5.49%;
+  top: 0;
+  right: 0;
+  bottom: 95.36%;
+  left: 94.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.popupLogIn {
+  width: 546px;
+  height: 647px;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--white);
+  font-family: var(--font-poppins);
+}

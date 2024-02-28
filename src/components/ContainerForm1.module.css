@@ -1,0 +1,55 @@
+.componentChild,
+.frameChild {
+  position: absolute;
+  background-color: var(--color-gray-1500);
+  backdrop-filter: blur(32px);
+}
+.componentChild {
+  height: 100%;
+  width: 100%;
+  top: -8.05%;
+  right: 1.14%;
+  bottom: 8.05%;
+  left: -1.14%;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+}
+.frameChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 135px;
+  height: 38px;
+}
+.h22m {
+  position: absolute;
+  top: 12px;
+  left: 40px;
+  font-weight: 500;
+}
+.rectangleGroup,
+.vuesaxboldclockIcon {
+  position: absolute;
+  top: 9px;
+  left: 9px;
+  width: 21px;
+  height: 21px;
+}
+.rectangleGroup {
+  height: 49.35%;
+  width: 38.35%;
+  top: 25.32%;
+  right: 0.57%;
+  bottom: 25.32%;
+  left: 61.08%;
+}
+.rectangleParent {
+  position: absolute;
+  top: 274px;
+  left: 0;
+  width: 352px;
+  height: 77px;
+  text-align: left;
+  font-size: var(--regular-12-16-size);
+  color: var(--color-gainsboro-200);
+  font-family: var(--font-poppins);
+}

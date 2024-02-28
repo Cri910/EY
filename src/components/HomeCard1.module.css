@@ -1,0 +1,177 @@
+.vuesaxboldhomeIcon {
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.home,
+.home1,
+.vuesaxboldhomeIcon {
+  position: absolute;
+  top: 0;
+}
+.home1 {
+  left: 41px;
+  font-weight: 500;
+}
+.home {
+  left: -6px;
+  width: 24px;
+  height: 24px;
+}
+.vuesaxlinearwalletIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.wallet1 {
+  position: relative;
+  font-weight: 500;
+}
+.wallet {
+  position: absolute;
+  top: 141px;
+  left: -6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.vuesaxoutlinemessageIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.messaggi1 {
+  position: relative;
+  font-weight: 500;
+}
+.messaggi {
+  position: absolute;
+  top: 283.5px;
+  left: -6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.vuesaxoutlinesetting2Icon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.impostazioni {
+  position: relative;
+  font-weight: 500;
+}
+.settings {
+  position: absolute;
+  top: 354px;
+  left: -6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.vuesaxoutlineinfoCircleIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.aiuto,
+.help {
+  position: absolute;
+}
+.aiuto {
+  top: 1.8px;
+  left: 41px;
+  font-weight: 500;
+}
+.help {
+  top: 424.5px;
+  left: -6px;
+  width: 83px;
+  height: 24px;
+}
+.vuesaxlineardiamondsIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.collezioni1 {
+  position: relative;
+  font-weight: 500;
+}
+.collezioni {
+  position: absolute;
+  top: 70.5px;
+  left: -6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.dashboardIcon {
+  position: absolute;
+  top: 20px;
+  left: 13px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.dashboard {
+  position: absolute;
+  top: 22px;
+  left: 58px;
+  font-weight: 500;
+}
+.menuItemSelected {
+  position: absolute;
+  top: 184.5px;
+  left: -20px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-gray-1000);
+  width: 238px;
+  height: 68px;
+  color: var(--white);
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-blueviolet-100);
+  width: 30px;
+  height: 30px;
+}
+.div {
+  position: absolute;
+  top: 1px;
+  left: 9px;
+  font-weight: 600;
+}
+.ellipseParent {
+  position: absolute;
+  top: 283.5px;
+  left: 208.4px;
+  width: 30px;
+  height: 30px;
+  font-size: var(--font-size-lg);
+  color: var(--color-ghostwhite-100);
+}
+.property1default {
+  position: absolute;
+  top: 19.5px;
+  left: 23px;
+  width: 282px;
+  height: 485px;
+  text-align: left;
+  font-size: var(--regular-16-24-size);
+  color: var(--color-dimgray-500);
+  font-family: var(--font-poppins);
+}

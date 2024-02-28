@@ -1,0 +1,33 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-blueviolet-100);
+  width: 30px;
+  height: 30.4px;
+}
+.div {
+  position: absolute;
+  top: 1px;
+  left: 9px;
+  font-weight: 600;
+  display: inline-block;
+  width: 12px;
+  height: 27.3px;
+}
+.ellipseParent {
+  position: absolute;
+  top: 289.3px;
+  left: 222.1px;
+  width: 30px;
+  height: 30.4px;
+}
+.menuMessaggi {
+  width: 326px;
+  height: 505px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-ghostwhite-100);
+  font-family: var(--font-poppins);
+}

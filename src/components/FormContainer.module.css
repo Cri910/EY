@@ -1,0 +1,260 @@
+.vuesaxoutlinesetting2Icon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  display: none;
+}
+.impostazioni1 {
+  width: 104px;
+  position: relative;
+  font-weight: 500;
+  display: none;
+}
+.impostazioni {
+  position: absolute;
+  top: 275.5px;
+  left: 0;
+  display: none;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+  color: var(--white);
+}
+.vuesaxlineardiamondsIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.collezioni1 {
+  position: relative;
+  font-weight: 500;
+}
+.collezioni {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.frame {
+  position: absolute;
+  top: 0;
+  left: -18.5px;
+  width: 137.5px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.vuesaxlinearwalletIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.wallet1 {
+  position: relative;
+  font-weight: 500;
+}
+.wallet {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.frame1 {
+  position: absolute;
+  top: 71px;
+  left: -18.5px;
+  width: 111.5px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.vuesaxoutlineinfoCircleIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.aiuto1 {
+  position: relative;
+  font-weight: 500;
+}
+.aiuto {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.frame2 {
+  position: absolute;
+  top: 345.8px;
+  left: -18.5px;
+  width: 103.2px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.dashboardIcon {
+  width: 28px;
+  position: relative;
+  height: 28px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.dashboard1 {
+  position: relative;
+  font-weight: 500;
+}
+.dashboard {
+  position: absolute;
+  top: 115.8px;
+  left: -18.5px;
+  border-radius: var(--br-4xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-97xl) var(--padding-xl)
+    var(--padding-mid);
+  gap: 0 17px;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-blueviolet-100);
+  width: 30px;
+  height: 30px;
+}
+.div {
+  position: absolute;
+  top: 1px;
+  left: 9px;
+  font-weight: 600;
+}
+.ellipseParent {
+  position: absolute;
+  top: -1.5px;
+  left: 218.2px;
+  width: 30px;
+  height: 30px;
+}
+.vuesaxoutlinemessageIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.messaggi1 {
+  position: relative;
+  font-weight: 500;
+}
+.frame4,
+.messaggi {
+  width: 119px;
+  height: 24px;
+}
+.frame4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 17px;
+  font-size: var(--regular-16-24-size);
+  color: var(--color-dimgray-500);
+}
+.messaggi {
+  position: relative;
+}
+.frame3 {
+  position: absolute;
+  top: 206px;
+  left: -18.5px;
+  width: 137.5px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-ghostwhite-100);
+}
+.vuesaxboldhomeIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.home1 {
+  position: relative;
+  font-weight: 500;
+}
+.home {
+  width: 89px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.frame5 {
+  position: absolute;
+  top: -70px;
+  left: -18.5px;
+  width: 107px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  color: var(--white);
+}
+.vuesaxoutlinesetting2Icon1 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.impostazioni3 {
+  position: relative;
+  font-weight: 500;
+}
+.impostazioni2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 17px;
+}
+.frame6 {
+  position: absolute;
+  top: 276.3px;
+  left: -18.5px;
+  width: 163px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.menuLaterale {
+  width: 145px;
+  position: undefined;
+  height: 452.4px;
+  margin-left: 9px;
+  text-align: left;
+  font-size: var(--regular-16-24-size);
+  color: var(--color-dimgray-500);
+  font-family: var(--font-poppins);
+}
